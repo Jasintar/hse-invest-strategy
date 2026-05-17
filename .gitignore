@@ -1,6 +1,7 @@
 # Папки
 .cursor/
-.data/
+data/
+
 
 # Файлы
 download_log.txt
