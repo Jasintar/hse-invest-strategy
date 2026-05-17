@@ -1,8 +1,9 @@
 # Папки
 .cursor/
-.data/
+data/
+
 
 # Файлы
 download_log.txt
 download_prices_log.txt
-config.yml
+config.yaml
