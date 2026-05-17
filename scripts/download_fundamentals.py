@@ -32,16 +32,32 @@ from tqdm import tqdm
 # Конфигурация
 # ---------------------------------------------------------------------------
 
-API_KEY = "K2F43OVK516APWKU"
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+CONFIG_FILE = PROJECT_ROOT / "config.yml"
+
+
+def load_api_key(config_file: Path) -> str:
+    with config_file.open("r", encoding="utf-8") as file:
+        for line in file:
+            key, separator, value = line.partition(":")
+            if separator and key.strip() == "av-key":
+                api_key = value.strip().strip("\"'")
+                if api_key:
+                    return api_key
+
+    raise ValueError(f"Не найдено поле 'av-key' в {config_file}")
+
+
+API_KEY = load_api_key(CONFIG_FILE)
 BASE_URL = "https://www.alphavantage.co/query"
 
 TICKERS_CSV_FILES = [
-    Path(__file__).parent.parent / "tickers" / "consumer-staples-list.csv",
-    Path(__file__).parent.parent / "tickers" / "energy-list.csv",
-    Path(__file__).parent.parent / "tickers" / "industrials-list.csv",
+    PROJECT_ROOT / "tickers" / "consumer-staples-list.csv",
+    PROJECT_ROOT / "tickers" / "energy-list.csv",
+    PROJECT_ROOT / "tickers" / "industrials-list.csv",
 ]
-DATA_DIR = Path(__file__).parent.parent / "data"
-LOG_FILE = Path(__file__).parent.parent / "download_log.txt"
+DATA_DIR = PROJECT_ROOT / "data"
+LOG_FILE = PROJECT_ROOT / "download_log.txt"
 
 CALLS_PER_MINUTE = 70        # чуть меньше лимита для надёжности
 MAX_WORKERS = 10             # параллельных потоков
