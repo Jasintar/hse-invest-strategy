@@ -1,0 +1,43 @@
+﻿date,ticker,sector,final_score,score_percentile,target_weight
+2018-01-02,ADM,Consumer Defensive,1.0,1.0,0.5
+2018-01-02,AQB,Consumer Defensive,0.5,0.5,0.5
+2019-01-02,ADM,Consumer Defensive,0.9333333333333333,1.0,0.2
+2019-01-02,ARLO,Industrials,0.8499999999999999,0.8,0.2
+2019-01-02,ARKO,Consumer Cyclical,0.6499999999999999,0.6,0.2
+2019-01-02,ACI,Consumer Defensive,0.6166666666666666,0.4,0.2
+2019-01-02,AQB,Consumer Defensive,0.45,0.2,0.2
+2020-01-02,ARLO,Industrials,1.0,1.0,0.2
+2020-01-02,ARKO,Consumer Cyclical,0.9249999999999999,0.8,0.2
+2020-01-02,ADM,Consumer Defensive,0.8083333333333335,0.6,0.2
+2020-01-02,ACI,Consumer Defensive,0.6499999999999999,0.4,0.2
+2020-01-02,AQB,Consumer Defensive,0.5416666666666666,0.2,0.2
+2021-01-04,ARKO,Consumer Cyclical,1.0,1.0,0.2
+2021-01-04,ARLO,Industrials,0.9500000000000001,0.8,0.2
+2021-01-04,ACI,Consumer Defensive,0.9083333333333332,0.6,0.2
+2021-01-04,ADM,Consumer Defensive,0.6083333333333333,0.4,0.2
+2021-01-04,AQB,Consumer Defensive,0.48333333333333334,0.2,0.2
+2022-01-03,ARKO,Consumer Cyclical,1.0,1.0,0.2
+2022-01-03,ARLO,Industrials,0.9500000000000001,0.8,0.2
+2022-01-03,ACI,Consumer Defensive,0.8333333333333334,0.6,0.2
+2022-01-03,ADM,Consumer Defensive,0.8,0.4,0.2
+2022-01-03,AQB,Consumer Defensive,0.36666666666666664,0.2,0.2
+2023-01-03,ARKO,Consumer Cyclical,1.0,0.9,0.2
+2023-01-03,ARLO,Industrials,1.0,0.9,0.2
+2023-01-03,ACI,Consumer Defensive,0.8166666666666667,0.6,0.2
+2023-01-03,ADM,Consumer Defensive,0.8,0.4,0.2
+2023-01-03,AQB,Consumer Defensive,0.3833333333333333,0.2,0.2
+2024-01-02,ARKO,Consumer Cyclical,1.0,0.9,0.2
+2024-01-02,ARLO,Industrials,1.0,0.9,0.2
+2024-01-02,ACI,Consumer Defensive,0.9,0.6,0.2
+2024-01-02,ADM,Consumer Defensive,0.7333333333333333,0.4,0.2
+2024-01-02,AQB,Consumer Defensive,0.36666666666666664,0.2,0.2
+2025-01-02,ARKO,Consumer Cyclical,1.0,0.9,0.2
+2025-01-02,ARLO,Industrials,1.0,0.9,0.2
+2025-01-02,ACI,Consumer Defensive,0.9166666666666666,0.6,0.2
+2025-01-02,ADM,Consumer Defensive,0.7,0.4,0.2
+2025-01-02,AQB,Consumer Defensive,0.3833333333333333,0.2,0.2
+2026-01-02,ARKO,Consumer Cyclical,1.0,0.9,0.2
+2026-01-02,ARLO,Industrials,1.0,0.9,0.2
+2026-01-02,ACI,Consumer Defensive,0.8,0.6,0.2
+2026-01-02,ADM,Consumer Defensive,0.75,0.4,0.2
+2026-01-02,AQB,Consumer Defensive,0.44999999999999996,0.2,0.2

@@ -1,0 +1,6 @@
+﻿ticker,sector,ticker_dir,price_rows,price_start,price_end,passed,issues,overview_rows,income_statement_quarterly_rows,balance_sheet_quarterly_rows,cash_flow_quarterly_rows,earnings_quarterly_rows
+ACI,Consumer Defensive,D:\Projects\financial_data\data\Consumer Defensive\ACI,1946,2018-08-03,2026-05-01,True,,1,48,48,48,29
+ADM,Consumer Defensive,D:\Projects\financial_data\data\Consumer Defensive\ADM,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+AQB,Consumer Defensive,D:\Projects\financial_data\data\Consumer Defensive\AQB,2339,2017-01-11,2026-05-01,True,,1,54,59,54,34
+ARKO,Consumer Cyclical,D:\Projects\financial_data\data\Consumer Cyclical\ARKO,1946,2018-08-03,2026-05-01,True,,1,54,54,54,28
+ARLO,Industrials,D:\Projects\financial_data\data\Industrials\ARLO,1946,2018-08-03,2026-05-01,True,,1,40,37,37,32
