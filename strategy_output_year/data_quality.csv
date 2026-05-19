@@ -1,0 +1,643 @@
+﻿ticker,sector,ticker_dir,price_rows,price_start,price_end,passed,issues,overview_rows,income_statement_quarterly_rows,balance_sheet_quarterly_rows,cash_flow_quarterly_rows,earnings_quarterly_rows
+ACI,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\ACI,1946,2018-08-03,2026-05-01,True,,1,48,48,48,29
+ADM,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\ADM,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+AQB,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\AQB,2339,2017-01-11,2026-05-01,True,,1,54,59,54,34
+ARKO,Consumer Cyclical,D:\Projects\python\hse-invest-strategy\data\Consumer Cyclical\ARKO,1946,2018-08-03,2026-05-01,True,,1,54,54,54,28
+ARLO,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\ARLO,1946,2018-08-03,2026-05-01,True,,1,40,37,37,32
+AVO,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\AVO,1401,2020-10-02,2026-05-01,True,,1,29,29,29,29
+BG,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\BG,5366,2005-01-03,2026-05-01,True,,1,81,81,81,99
+BGS,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\BGS,4766,2007-05-23,2026-05-01,True,,1,81,81,81,75
+BOF,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\BOF,721,2023-06-16,2026-05-01,True,,1,18,18,18,11
+BRBR,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\BRBR,5366,2005-01-03,2026-05-01,True,,1,33,33,33,27
+BRCC,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\BRCC,1059,2022-02-10,2026-05-01,True,,1,24,24,24,19
+BRFH,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\BRFH,3512,2012-05-14,2026-05-01,True,,1,64,64,64,56
+BRID,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\BRID,5366,2005-01-03,2026-05-01,True,,1,81,81,81,101
+BYND,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\BYND,5366,2005-01-03,2026-05-01,True,,1,35,35,35,30
+CAG,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\CAG,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+CALM,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\CALM,5366,2005-01-03,2026-05-01,True,,1,81,81,81,111
+CELH,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\CELH,4851,2007-01-22,2026-05-01,True,,1,81,81,76,75
+COCO,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\COCO,1136,2021-10-21,2026-05-01,True,,1,25,25,25,25
+COKE,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\COKE,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+CPB,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\CPB,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+CTVA,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\CTVA,4851,2007-01-22,2026-05-01,True,,1,36,36,36,30
+CVS,Healthcare,D:\Projects\python\hse-invest-strategy\data\Healthcare\CVS,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+DAR,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\DAR,5366,2005-01-03,2026-05-01,True,,1,81,81,81,112
+DNUT,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\DNUT,1214,2021-07-01,2026-05-01,True,,1,43,44,43,41
+EDBL,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\EDBL,1214,2021-07-01,2026-05-01,True,,1,24,24,24,15
+FARM,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\FARM,5366,2005-01-03,2026-05-01,True,,1,81,81,81,109
+FIZZ,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\FIZZ,5366,2005-01-03,2026-05-01,True,,1,81,81,81,113
+FLO,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\FLO,5366,2005-01-03,2026-05-01,True,,1,81,81,81,118
+FRPT,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\FRPT,2886,2014-11-07,2026-05-01,True,,1,56,53,53,46
+GIS,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\GIS,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+GNSS,Technology,D:\Projects\python\hse-invest-strategy\data\Technology\GNSS,5366,2005-01-03,2026-05-01,True,,1,81,81,81,103
+GO,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\GO,1726,2019-06-20,2026-05-01,True,,1,32,32,32,28
+GRDN,Healthcare,D:\Projects\python\hse-invest-strategy\data\Healthcare\GRDN,400,2024-09-26,2026-05-01,True,,1,24,25,24,7
+HAIN,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\HAIN,5366,2005-01-03,2026-05-01,True,,1,81,81,81,113
+HRL,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\HRL,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+HSY,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\HSY,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+IMKTA,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\IMKTA,5366,2005-01-03,2026-05-01,True,,1,81,81,81,114
+INGR,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\INGR,5366,2005-01-03,2026-05-01,True,,1,81,81,81,112
+IPST,Financial Services,D:\Projects\python\hse-invest-strategy\data\Financial Services\IPST,5366,2005-01-03,2026-05-01,True,,1,10,10,10,6
+JBSS,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\JBSS,5366,2005-01-03,2026-05-01,True,,1,81,81,81,118
+JJSF,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\JJSF,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+JVA,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\JVA,5366,2005-01-03,2026-05-01,True,,1,81,81,81,83
+KDP,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\KDP,4525,2008-05-07,2026-05-01,True,,1,81,81,81,73
+KHC,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\KHC,2723,2015-07-06,2026-05-01,True,,1,81,81,81,54
+KN,Technology,D:\Projects\python\hse-invest-strategy\data\Technology\KN,4525,2008-05-07,2026-05-01,True,,1,57,56,57,50
+KO,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\KO,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+KOSS,Technology,D:\Projects\python\hse-invest-strategy\data\Technology\KOSS,5366,2005-01-03,2026-05-01,True,,1,81,81,81,115
+KR,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\KR,5366,2005-01-03,2026-05-01,True,,1,81,81,81,112
+LMNR,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\LMNR,5366,2005-01-03,2026-05-01,True,,1,70,69,68,65
+LW,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\LW,2380,2016-11-10,2026-05-01,True,,1,44,44,44,39
+LWAY,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\LWAY,5366,2005-01-03,2026-05-01,True,,1,81,81,81,107
+MAMA,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\MAMA,2380,2016-11-10,2026-05-01,True,,1,61,63,62,49
+MDLZ,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\MDLZ,5366,2005-01-03,2026-05-01,True,,1,81,81,81,100
+MED,Consumer Cyclical,D:\Projects\python\hse-invest-strategy\data\Consumer Cyclical\MED,5366,2005-01-03,2026-05-01,True,,1,81,81,81,112
+MGPI,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\MGPI,5366,2005-01-03,2026-05-01,True,,1,81,81,81,109
+MKC,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\MKC,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+MNST,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\MNST,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+MSN,Technology,D:\Projects\python\hse-invest-strategy\data\Technology\MSN,5366,2005-01-03,2026-05-01,True,,1,81,81,81,104
+MSS,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\MSS,5366,2005-01-03,2026-05-01,True,,1,17,17,17,10
+MZTI,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\MZTI,5366,2005-01-03,2026-05-01,True,,1,81,81,81,111
+NGVC,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\NGVC,3462,2012-07-25,2026-05-01,True,,1,65,62,65,55
+PEP,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\PEP,5366,2005-01-03,2026-05-01,True,,1,81,81,81,118
+PETS,Healthcare,D:\Projects\python\hse-invest-strategy\data\Healthcare\PETS,5366,2005-01-03,2026-05-01,True,,1,81,81,81,107
+POST,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\POST,5366,2005-01-03,2026-05-01,True,,1,62,62,63,58
+PPC,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\PPC,5366,2005-01-03,2026-05-01,True,,1,81,81,81,113
+PRMB,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\PRMB,5366,2005-01-03,2026-05-01,True,,1,81,81,81,100
+RIME,Technology,D:\Projects\python\hse-invest-strategy\data\Technology\RIME,5366,2005-01-03,2026-05-01,True,,1,81,81,81,94
+RKDA,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\RKDA,2757,2015-05-15,2026-05-01,True,,1,53,53,53,44
+RMCF,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\RMCF,5366,2005-01-03,2026-05-01,True,,1,81,81,81,110
+RYM,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\RYM,5366,2005-01-03,2026-05-01,True,,1,21,21,24,21
+SAM,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\SAM,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+SENEA,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\SENEA,5366,2005-01-03,2026-05-01,True,,1,81,81,81,107
+SENEB,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\SENEB,5366,2005-01-03,2026-05-01,True,,1,81,81,81,107
+SFD,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\SFD,317,2025-01-28,2026-05-01,True,,1,81,81,81,6
+SFM,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\SFM,3207,2013-08-01,2026-05-01,True,,1,58,58,58,52
+SJM,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\SJM,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+SMPL,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\SMPL,2216,2017-07-10,2026-05-01,True,,1,57,50,51,38
+SONO,Technology,D:\Projects\python\hse-invest-strategy\data\Technology\SONO,1947,2018-08-02,2026-05-01,True,,1,43,40,41,32
+SOWG,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\SOWG,3983,2010-07-01,2026-05-01,True,,1,60,61,58,62
+STZ,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\STZ,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+TR,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\TR,5366,2005-01-03,2026-05-01,True,,1,81,81,81,114
+TSN,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\TSN,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+TULP,Communication Services,D:\Projects\python\hse-invest-strategy\data\Communication Services\TULP,5366,2005-01-03,2026-05-01,True,,1,33,33,36,107
+UEIC,Technology,D:\Projects\python\hse-invest-strategy\data\Technology\UEIC,5366,2005-01-03,2026-05-01,True,,1,81,81,81,119
+UTZ,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\UTZ,5366,2005-01-03,2026-05-01,True,,1,31,31,30,29
+VITL,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\VITL,5366,2005-01-03,2026-05-01,True,,1,28,28,28,24
+VLGEA,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\VLGEA,5366,2005-01-03,2026-05-01,True,,1,81,81,81,109
+WEST,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\WEST,5366,2005-01-03,2026-05-01,True,,1,20,20,20,19
+WEYS,Consumer Cyclical,D:\Projects\python\hse-invest-strategy\data\Consumer Cyclical\WEYS,5366,2005-01-03,2026-05-01,True,,1,81,81,81,112
+WMK,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\WMK,5366,2005-01-03,2026-05-01,True,,1,81,81,81,116
+WVVI,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\WVVI,5366,2005-01-03,2026-05-01,True,,1,81,81,81,101
+YHC,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\YHC,5366,2005-01-03,2026-05-01,True,,1,17,19,17,11
+YSWY,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\YSWY,5366,2005-01-03,2026-05-01,False,"missing_reports:cash_flow_quarterly.csv,earnings_quarterly.csv",1,1,1,0,0
+ZVIA,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\ZVIA,5366,2005-01-03,2026-05-01,True,,1,24,24,24,23
+ACDC,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\ACDC,5366,2005-01-03,2026-05-01,True,,1,24,24,24,18
+AGIG,Utilities,D:\Projects\python\hse-invest-strategy\data\Utilities\AGIG,5366,2005-01-03,2026-05-01,True,,1,81,81,81,85
+AMPY,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\AMPY,3528,2012-04-20,2026-05-01,True,,1,61,61,61,54
+AMR,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\AMR,1314,2021-02-08,2026-05-01,True,,1,39,40,38,38
+ANNA,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\ANNA,1052,2022-02-22,2026-05-01,True,,1,12,12,12,17
+APA,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\APA,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+APC,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\APC,55,2026-02-12,2026-05-01,False,short_price_history,1,64,65,64,2
+AR,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\AR,3158,2013-10-10,2026-05-01,True,,1,57,57,57,51
+AREC,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\AREC,2221,2017-06-30,2026-05-01,True,,1,48,48,48,39
+BATL,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\BATL,1596,2019-12-24,2026-05-01,True,,1,81,81,81,61
+BE,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\BE,1953,2018-07-25,2026-05-01,True,,1,45,45,45,35
+BKV,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\BKV,400,2024-09-26,2026-05-01,True,,1,18,18,17,7
+BRN,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\BRN,5366,2005-01-03,2026-05-01,True,,1,81,81,81,105
+BTU,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\BTU,2768,2015-04-30,2026-05-01,True,,1,81,81,81,98
+CHRD,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\CHRD,3993,2010-06-17,2026-05-01,True,,1,81,81,81,50
+CKX,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\CKX,5366,2005-01-03,2026-05-01,True,,1,81,81,81,92
+CLMT,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\CLMT,5098,2006-01-26,2026-05-01,True,,1,81,81,81,80
+CNR,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\CNR,2126,2017-11-14,2026-05-01,True,,1,81,81,81,120
+CNX,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\CNX,5366,2005-01-03,2026-05-01,True,,1,81,81,81,108
+COP,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\COP,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+CRC,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\CRC,1383,2020-10-28,2026-05-01,True,,1,52,52,52,51
+CRGY,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\CRGY,1383,2020-10-28,2026-05-01,True,,1,24,24,23,18
+CRK,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\CRK,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+CRT,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\CRT,5366,2005-01-03,2026-05-01,True,,1,81,81,81,109
+CTRA,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\CTRA,5366,2005-01-03,2026-05-01,True,,1,81,81,81,113
+CVI,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\CVI,5366,2005-01-03,2026-05-01,True,,1,81,81,80,74
+CVX,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\CVX,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+DINO,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\DINO,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+DK,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\DK,5030,2006-05-04,2026-05-01,True,,1,81,81,81,80
+DVN,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\DVN,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+DWSN,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\DWSN,5366,2005-01-03,2026-05-01,True,,1,81,81,81,107
+EAF,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\EAF,2020,2018-04-19,2026-05-01,True,,1,81,81,81,37
+EGY,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\EGY,5366,2005-01-03,2026-05-01,True,,1,81,81,81,110
+EOG,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\EOG,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+EP,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\EP,5366,2005-01-03,2026-05-01,True,,1,81,81,81,102
+EPM,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\EPM,5366,2005-01-03,2026-05-01,True,,1,81,81,81,97
+EPSN,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\EPSN,5366,2005-01-03,2026-05-01,True,,1,76,76,74,72
+EQT,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\EQT,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+EXE,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\EXE,5366,2005-01-03,2026-05-01,True,,1,81,81,81,25
+FANG,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\FANG,3406,2012-10-12,2026-05-01,True,,1,62,62,62,54
+FCEL,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\FCEL,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+FIP,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\FIP,5366,2005-01-03,2026-05-01,True,,1,20,21,21,16
+GBR,Real Estate,D:\Projects\python\hse-invest-strategy\data\Real Estate\GBR,5366,2005-01-03,2026-05-01,True,,1,81,81,81,97
+GLND,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\GLND,5366,2005-01-03,2026-05-01,True,,1,5,5,2,3
+GPOR,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\GPOR,1245,2021-05-18,2026-05-01,True,,1,81,81,81,82
+GRNT,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\GRNT,1376,2020-11-06,2026-05-01,True,,1,20,20,20,23
+HAL,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\HAL,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+HCC,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\HCC,2275,2017-04-13,2026-05-01,True,,1,42,42,42,37
+HESM,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\HESM,5366,2005-01-03,2026-05-01,True,,1,53,53,53,37
+HLX,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\HLX,5366,2005-01-03,2026-05-01,True,,1,81,81,81,115
+HNRG,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\HNRG,5366,2005-01-03,2026-05-01,True,,1,81,81,81,109
+HP,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\HP,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+HPK,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\HPK,5366,2005-01-03,2026-05-01,True,,1,28,28,28,29
+INR,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\INR,314,2025-01-31,2026-05-01,True,,1,13,11,12,5
+KGEI,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\KGEI,4106,2010-01-05,2026-05-01,True,,1,18,18,18,69
+KLXE,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\KLXE,1928,2018-08-29,2026-05-01,True,,1,35,35,35,30
+LBRT,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\LBRT,2323,2017-02-03,2026-05-01,True,,1,42,42,42,37
+LFUS,Technology,D:\Projects\python\hse-invest-strategy\data\Technology\LFUS,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+METC,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\METC,2323,2017-02-03,2026-05-01,True,,1,45,45,45,37
+METCB,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\METCB,5366,2005-01-03,2026-05-01,True,,1,41,41,41,11
+METCZ,Unknown,D:\Projects\python\hse-invest-strategy\data\Unknown\METCZ,5366,2005-01-03,2026-05-01,False,missing_reports:earnings_quarterly.csv,1,9,9,9,0
+MGEE,Utilities,D:\Projects\python\hse-invest-strategy\data\Utilities\MGEE,5366,2005-01-03,2026-05-01,True,,1,81,81,81,113
+MGY,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\MGY,2222,2017-06-29,2026-05-01,True,,1,36,37,36,35
+MMLP,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\MMLP,5366,2005-01-03,2026-05-01,True,,1,81,81,81,95
+MPC,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\MPC,3735,2011-06-24,2026-05-01,True,,1,66,66,65,59
+MTDR,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\MTDR,3582,2012-02-02,2026-05-01,True,,1,65,65,65,57
+MTR,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\MTR,5366,2005-01-03,2026-05-01,True,,1,81,81,81,105
+MUR,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\MUR,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+MXC,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\MXC,5366,2005-01-03,2026-05-01,True,,1,81,81,81,102
+NC,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\NC,5366,2005-01-03,2026-05-01,True,,1,81,81,81,115
+NCSM,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\NCSM,2265,2017-04-28,2026-05-01,True,,1,42,42,42,37
+NE,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\NE,1230,2021-06-09,2026-05-01,True,,1,81,81,81,119
+NESR,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\NESR,456,2024-07-09,2026-05-01,True,,1,31,32,31,36
+NGS,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\NGS,5366,2005-01-03,2026-05-01,True,,1,81,81,81,94
+NOG,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\NOG,4794,2007-04-13,2026-05-01,True,,1,81,81,81,77
+NPWR,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\NPWR,5366,2005-01-03,2026-05-01,True,,1,19,20,19,19
+NRP,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\NRP,5366,2005-01-03,2026-05-01,True,,1,81,81,81,93
+NRT,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\NRT,5366,2005-01-03,2026-05-01,True,,1,81,81,81,108
+NUAI,Technology,D:\Projects\python\hse-invest-strategy\data\Technology\NUAI,1083,2022-01-06,2026-05-01,True,,1,8,8,9,16
+OII,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\OII,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+OXY,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\OXY,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+PARR,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\PARR,3433,2012-09-05,2026-05-01,True,,1,81,81,81,90
+PBF,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\PBF,3365,2012-12-13,2026-05-01,True,,1,60,61,60,54
+PBT,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\PBT,5366,2005-01-03,2026-05-01,True,,1,81,81,81,109
+PED,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\PED,5366,2005-01-03,2026-05-01,True,,1,81,81,81,91
+PLUG,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\PLUG,5366,2005-01-03,2026-05-01,True,,1,81,81,81,105
+PNRG,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\PNRG,5366,2005-01-03,2026-05-01,True,,1,81,81,81,110
+POWL,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\POWL,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+PR,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\PR,2526,2016-04-15,2026-05-01,True,,1,50,51,50,39
+PSX,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\PSX,5366,2005-01-03,2026-05-01,True,,1,62,62,62,57
+PTEN,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\PTEN,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+PUMP,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\PUMP,2294,2017-03-17,2026-05-01,True,,1,42,42,42,37
+REI,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\REI,4797,2007-04-10,2026-05-01,True,,1,77,77,77,74
+REPX,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\REPX,5366,2005-01-03,2026-05-01,True,,1,81,81,81,104
+RES,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\RES,5366,2005-01-03,2026-05-01,True,,1,81,81,81,114
+RNGR,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\RNGR,5366,2005-01-03,2026-05-01,True,,1,42,42,42,36
+RRC,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\RRC,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+SBR,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\SBR,5366,2005-01-03,2026-05-01,True,,1,81,81,81,109
+SD,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\SD,5366,2005-01-03,2026-05-01,True,,1,81,81,78,73
+SJT,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\SJT,5366,2005-01-03,2026-05-01,True,,1,81,81,81,109
+SM,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\SM,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+SOC,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\SOC,5366,2005-01-03,2026-05-01,True,,1,21,21,21,20
+TALO,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\TALO,2005,2018-05-10,2026-05-01,True,,1,36,36,36,112
+THR,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\THR,3770,2011-05-05,2026-05-01,True,,1,71,65,69,60
+TPL,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\TPL,5366,2005-01-03,2026-05-01,True,,1,81,81,81,108
+TTI,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\TTI,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+TUSK,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\TUSK,5366,2005-01-03,2026-05-01,True,,1,51,51,51,39
+USEG,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\USEG,5366,2005-01-03,2026-05-01,True,,1,81,81,81,107
+VAL,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\VAL,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+VLO,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\VLO,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+VNOM,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\VNOM,2986,2014-06-18,2026-05-01,True,,1,49,49,49,47
+VTS,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\VTS,830,2023-01-10,2026-05-01,True,,1,20,20,20,15
+WKC,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\WKC,5366,2005-01-03,2026-05-01,True,,1,81,81,81,106
+WTI,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\WTI,5348,2005-01-28,2026-05-01,True,,1,81,81,81,85
+WTTR,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\WTTR,2225,2017-06-26,2026-05-01,True,,1,41,41,41,37
+WWD,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\WWD,5366,2005-01-03,2026-05-01,True,,1,81,81,81,110
+XOM,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\XOM,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+XPRO,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\XPRO,3201,2013-08-09,2026-05-01,True,,1,54,54,48,52
+A,Healthcare,D:\Projects\python\hse-invest-strategy\data\Healthcare\A,5366,2005-01-03,2026-05-01,True,,1,81,81,81,105
+AA,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\AA,5366,2005-01-03,2026-05-01,True,,1,46,46,46,110
+AAON,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\AAON,5366,2005-01-03,2026-05-01,True,,1,81,81,81,112
+ACA,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\ACA,1881,2018-11-05,2026-05-01,True,,1,38,38,38,32
+ACHR,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\ACHR,1347,2020-12-18,2026-05-01,True,,1,24,24,24,24
+ACNT,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\ACNT,5366,2005-01-03,2026-05-01,True,,1,81,81,81,116
+ADP,Technology,D:\Projects\python\hse-invest-strategy\data\Technology\ADP,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+AEHR,Technology,D:\Projects\python\hse-invest-strategy\data\Technology\AEHR,5366,2005-01-03,2026-05-01,True,,1,81,81,81,114
+AESI,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\AESI,5366,2005-01-03,2026-05-01,True,,1,21,21,21,14
+AGCO,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\AGCO,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+AIR,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\AIR,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+AIRI,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\AIRI,5366,2005-01-03,2026-05-01,True,,1,81,81,81,80
+AIRJ,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\AIRJ,1066,2022-02-01,2026-05-01,True,,1,19,19,16,18
+AIRO,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\AIRO,222,2025-06-13,2026-05-01,False,short_price_history,1,16,16,16,4
+ALB,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\ALB,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+ALG,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\ALG,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+ALH,Consumer Cyclical,D:\Projects\python\hse-invest-strategy\data\Consumer Cyclical\ALH,141,2025-10-09,2026-05-01,False,short_price_history,1,8,8,8,3
+ALMR,Healthcare,D:\Projects\python\hse-invest-strategy\data\Healthcare\ALMR,11,2026-04-17,2026-05-01,False,"short_price_history;missing_reports:income_statement_quarterly.csv,balance_sheet_quarterly.csv,cash_flow_quarterly.csv,earnings_quarterly.csv",1,0,0,0,0
+ALNT,Technology,D:\Projects\python\hse-invest-strategy\data\Technology\ALNT,5366,2005-01-03,2026-05-01,True,,1,81,81,81,102
+ALTG,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\ALTG,5366,2005-01-03,2026-05-01,True,,1,30,32,32,28
+ALTO,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\ALTO,5310,2005-03-24,2026-05-01,True,,1,81,81,81,110
+AME,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\AME,5366,2005-01-03,2026-05-01,True,,1,81,81,81,115
+AMTX,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\AMTX,5310,2005-03-24,2026-05-01,True,,1,81,81,81,77
+ANDE,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\ANDE,5366,2005-01-03,2026-05-01,True,,1,81,81,81,116
+AP,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\AP,5366,2005-01-03,2026-05-01,True,,1,81,81,81,109
+AQMS,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\AQMS,2704,2015-07-31,2026-05-01,True,,1,46,47,46,43
+ARCB,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\ARCB,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+AREB,Consumer Cyclical,D:\Projects\python\hse-invest-strategy\data\Consumer Cyclical\AREB,1062,2022-02-07,2026-05-01,True,,1,44,44,44,40
+ARQ,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\ARQ,5366,2005-01-03,2026-05-01,True,,1,18,18,18,89
+ARTW,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\ARTW,5366,2005-01-03,2026-05-01,True,,1,81,81,81,103
+ARXS,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\ARXS,12,2026-04-16,2026-05-01,False,"short_price_history;missing_reports:income_statement_quarterly.csv,balance_sheet_quarterly.csv,cash_flow_quarterly.csv,earnings_quarterly.csv",1,0,0,0,0
+ASA,Unknown,D:\Projects\python\hse-invest-strategy\data\Unknown\ASA,5366,2005-01-03,2026-05-01,False,"missing_reports:overview.csv,income_statement_quarterly.csv,balance_sheet_quarterly.csv,cash_flow_quarterly.csv,earnings_quarterly.csv",0,0,0,0,0
+ASIX,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\ASIX,2420,2016-09-15,2026-05-01,True,,1,45,45,45,38
+ASPI,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\ASPI,5366,2005-01-03,2026-05-01,True,,1,20,21,18,15
+ASTC,Technology,D:\Projects\python\hse-invest-strategy\data\Technology\ASTC,5366,2005-01-03,2026-05-01,True,,1,81,81,81,118
+ASTE,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\ASTE,5366,2005-01-03,2026-05-01,True,,1,81,81,81,119
+ATI,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\ATI,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+ATLN,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\ATLN,5366,2005-01-03,2026-05-01,True,,1,33,33,32,18
+ATLX,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\ATLX,3314,2013-02-28,2026-05-01,True,,1,55,55,55,33
+ATR,Healthcare,D:\Projects\python\hse-invest-strategy\data\Healthcare\ATR,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+ATRO,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\ATRO,5366,2005-01-03,2026-05-01,True,,1,81,81,81,92
+AVAV,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\AVAV,5366,2005-01-03,2026-05-01,True,,1,81,81,81,77
+AVD,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\AVD,5366,2005-01-03,2026-05-01,True,,1,81,81,81,111
+AVNT,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\AVNT,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+AVTR,Healthcare,D:\Projects\python\hse-invest-strategy\data\Healthcare\AVTR,1749,2019-05-17,2026-05-01,True,,1,34,34,35,35
+AWI,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\AWI,5366,2005-01-03,2026-05-01,True,,1,81,81,81,78
+AXON,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\AXON,5366,2005-01-03,2026-05-01,True,,1,81,81,81,98
+AZZ,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\AZZ,5366,2005-01-03,2026-05-01,True,,1,81,81,81,115
+BA,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\BA,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+BAER,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\BAER,5366,2005-01-03,2026-05-01,True,,1,20,20,20,20
+BALL,Consumer Cyclical,D:\Projects\python\hse-invest-strategy\data\Consumer Cyclical\BALL,5366,2005-01-03,2026-05-01,True,,1,81,81,81,115
+BC,Consumer Cyclical,D:\Projects\python\hse-invest-strategy\data\Consumer Cyclical\BC,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+BCO,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\BCO,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+BCPC,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\BCPC,5366,2005-01-03,2026-05-01,True,,1,81,81,81,113
+BDC,Technology,D:\Projects\python\hse-invest-strategy\data\Technology\BDC,5366,2005-01-03,2026-05-01,True,,1,81,81,81,118
+BETA,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\BETA,5366,2005-01-03,2026-05-01,True,,1,6,5,6,3
+BIO,Healthcare,D:\Projects\python\hse-invest-strategy\data\Healthcare\BIO,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+BMI,Technology,D:\Projects\python\hse-invest-strategy\data\Technology\BMI,5366,2005-01-03,2026-05-01,True,,1,81,81,81,116
+BNC,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\BNC,3051,2014-03-17,2026-05-01,True,,1,59,59,59,15
+BNGO,Healthcare,D:\Projects\python\hse-invest-strategy\data\Healthcare\BNGO,5366,2005-01-03,2026-05-01,True,,1,37,37,37,32
+BOOM,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\BOOM,5366,2005-01-03,2026-05-01,True,,1,81,81,81,114
+BRKR,Healthcare,D:\Projects\python\hse-invest-strategy\data\Healthcare\BRKR,5366,2005-01-03,2026-05-01,True,,1,81,81,81,102
+BW,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\BW,2736,2015-06-16,2026-05-01,True,,1,49,49,49,43
+BWNB,Unknown,D:\Projects\python\hse-invest-strategy\data\Unknown\BWNB,1096,2021-12-17,2026-05-01,False,"missing_reports:overview.csv,income_statement_quarterly.csv,balance_sheet_quarterly.csv,cash_flow_quarterly.csv,earnings_quarterly.csv",0,0,0,0,0
+BWXT,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\BWXT,3962,2010-08-02,2026-05-01,True,,1,69,69,69,63
+CARR,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\CARR,2736,2015-06-16,2026-05-01,True,,1,29,29,29,26
+CAT,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\CAT,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+CBT,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\CBT,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+CBUS,Healthcare,D:\Projects\python\hse-invest-strategy\data\Healthcare\CBUS,5366,2005-01-03,2026-05-01,True,,1,40,40,40,35
+CC,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\CC,2733,2015-06-19,2026-05-01,True,,1,50,50,50,43
+CCK,Consumer Cyclical,D:\Projects\python\hse-invest-strategy\data\Consumer Cyclical\CCK,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+CDNL,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\CDNL,98,2025-12-10,2026-05-01,False,short_price_history,1,4,5,4,2
+CDXS,Healthcare,D:\Projects\python\hse-invest-strategy\data\Healthcare\CDXS,4032,2010-04-22,2026-05-01,True,,1,73,73,73,65
+CE,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\CE,5353,2005-01-21,2026-05-01,True,,1,81,81,81,85
+CECO,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\CECO,5366,2005-01-03,2026-05-01,True,,1,81,81,81,91
+CENX,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\CENX,5366,2005-01-03,2026-05-01,True,,1,81,81,81,118
+CF,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\CF,5366,2005-01-03,2026-05-01,True,,1,81,81,81,83
+CGNX,Technology,D:\Projects\python\hse-invest-strategy\data\Technology\CGNX,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+CHRW,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\CHRW,5366,2005-01-03,2026-05-01,True,,1,81,81,81,114
+CLH,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\CLH,5366,2005-01-03,2026-05-01,True,,1,81,81,81,116
+CLIR,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\CLIR,3525,2012-04-25,2026-05-01,True,,1,62,62,62,55
+CMC,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\CMC,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+CMCO,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\CMCO,5366,2005-01-03,2026-05-01,True,,1,81,81,81,119
+CMI,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\CMI,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+CMP,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\CMP,5366,2005-01-03,2026-05-01,True,,1,81,81,81,89
+CMT,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\CMT,5366,2005-01-03,2026-05-01,True,,1,81,81,81,105
+CODA,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\CODA,5366,2005-01-03,2026-05-01,True,,1,81,81,77,86
+COHU,Technology,D:\Projects\python\hse-invest-strategy\data\Technology\COHU,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+CR,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\CR,776,2023-03-29,2026-05-01,True,,1,81,81,81,109
+CRS,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\CRS,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+CSL,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\CSL,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+CSW,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\CSW,2662,2015-09-30,2026-05-01,True,,1,47,47,47,42
+CSX,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\CSX,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+CTAS,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\CTAS,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+CTKB,Healthcare,D:\Projects\python\hse-invest-strategy\data\Healthcare\CTKB,1199,2021-07-23,2026-05-01,True,,1,24,24,24,21
+CUB,Financial Services,D:\Projects\python\hse-invest-strategy\data\Financial Services\CUB,432,2024-08-12,2026-05-01,True,,1,81,81,81,6
+CVLG,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\CVLG,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+CVR,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\CVR,5366,2005-01-03,2026-05-01,True,,1,81,81,81,106
+CVU,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\CVU,5366,2005-01-03,2026-05-01,True,,1,81,81,81,109
+CXT,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\CXT,5366,2005-01-03,2026-05-01,True,,1,20,20,20,120
+DAIO,Technology,D:\Projects\python\hse-invest-strategy\data\Technology\DAIO,5366,2005-01-03,2026-05-01,True,,1,81,81,81,115
+DCI,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\DCI,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+DCO,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\DCO,5366,2005-01-03,2026-05-01,True,,1,81,81,81,119
+DD,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\DD,5366,2005-01-03,2026-05-01,True,,1,81,81,81,113
+DE,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\DE,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+DHR,Healthcare,D:\Projects\python\hse-invest-strategy\data\Healthcare\DHR,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+DOV,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\DOV,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+DOW,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\DOW,5366,2005-01-03,2026-05-01,True,,1,66,67,65,49
+DXPE,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\DXPE,5366,2005-01-03,2026-05-01,True,,1,81,81,81,109
+DY,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\DY,5366,2005-01-03,2026-05-01,True,,1,81,81,81,118
+ECVT,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\ECVT,2158,2017-09-29,2026-05-01,True,,1,40,40,40,37
+EKSO,Healthcare,D:\Projects\python\hse-invest-strategy\data\Healthcare\EKSO,5366,2005-01-03,2026-05-01,True,,1,56,56,56,49
+ELMT,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\ELMT,5366,2005-01-03,2026-05-01,False,missing_reports:earnings_quarterly.csv,1,2,3,2,0
+ELSE,Technology,D:\Projects\python\hse-invest-strategy\data\Technology\ELSE,5366,2005-01-03,2026-05-01,True,,1,81,81,81,105
+EME,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\EME,5366,2005-01-03,2026-05-01,True,,1,81,81,81,114
+EMN,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\EMN,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+ENTG,Technology,D:\Projects\python\hse-invest-strategy\data\Technology\ENTG,5366,2005-01-03,2026-05-01,True,,1,81,81,81,100
+ESAB,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\ESAB,5366,2005-01-03,2026-05-01,True,,1,20,20,20,17
+ESI,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\ESI,3150,2013-10-22,2026-05-01,True,,1,57,55,57,50
+ESOA,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\ESOA,5366,2005-01-03,2026-05-01,True,,1,77,79,77,77
+ETS,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\ETS,5366,2005-01-03,2026-05-01,True,,1,7,8,7,2
+EVC,Communication Services,D:\Projects\python\hse-invest-strategy\data\Communication Services\EVC,5366,2005-01-03,2026-05-01,True,,1,81,81,81,102
+EVEX,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\EVEX,998,2022-05-10,2026-05-01,True,,1,21,21,21,20
+EXP,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\EXP,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+EXPD,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\EXPD,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+EYPT,Healthcare,D:\Projects\python\hse-invest-strategy\data\Healthcare\EYPT,5349,2005-01-27,2026-05-01,True,,1,81,81,81,74
+F,Consumer Cyclical,D:\Projects\python\hse-invest-strategy\data\Consumer Cyclical\F,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+FCUV,Technology,D:\Projects\python\hse-invest-strategy\data\Technology\FCUV,2880,2014-11-17,2026-05-01,True,,1,48,50,49,45
+FEAM,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\FEAM,2880,2014-11-17,2026-05-01,True,,1,36,36,36,17
+FEIM,Technology,D:\Projects\python\hse-invest-strategy\data\Technology\FEIM,5366,2005-01-03,2026-05-01,True,,1,81,81,81,114
+FF,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\FF,3800,2011-03-23,2026-05-01,True,,1,79,79,78,70
+FFAI,Consumer Cyclical,D:\Projects\python\hse-invest-strategy\data\Consumer Cyclical\FFAI,5366,2005-01-03,2026-05-01,True,,1,19,19,21,21
+FGI,Consumer Cyclical,D:\Projects\python\hse-invest-strategy\data\Consumer Cyclical\FGI,5366,2005-01-03,2026-05-01,True,,1,25,25,25,20
+FIX,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\FIX,5366,2005-01-03,2026-05-01,True,,1,81,81,81,115
+FLR,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\FLR,5366,2005-01-03,2026-05-01,True,,1,81,81,81,102
+FLS,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\FLS,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+FLY,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\FLY,185,2025-08-07,2026-05-01,False,short_price_history,1,8,7,8,3
+FLYE,Consumer Cyclical,D:\Projects\python\hse-invest-strategy\data\Consumer Cyclical\FLYE,5366,2005-01-03,2026-05-01,True,,1,16,16,16,7
+FMC,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\FMC,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+FORR,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\FORR,5366,2005-01-03,2026-05-01,True,,1,81,81,81,117
+FOX,Communication Services,D:\Projects\python\hse-invest-strategy\data\Communication Services\FOX,1795,2019-03-13,2026-05-01,True,,1,54,51,53,37
+FOXA,Communication Services,D:\Projects\python\hse-invest-strategy\data\Communication Services\FOXA,5366,2005-01-03,2026-05-01,True,,1,81,81,81,30
+FRD,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\FRD,5366,2005-01-03,2026-05-01,True,,1,81,81,81,101
+FSS,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\FSS,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+FSTR,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\FSTR,5366,2005-01-03,2026-05-01,True,,1,81,81,81,114
+FTAI,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\FTAI,5366,2005-01-03,2026-05-01,True,,1,54,56,54,45
+FTEK,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\FTEK,5366,2005-01-03,2026-05-01,True,,1,81,81,81,95
+FTK,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\FTK,5224,2005-07-27,2026-05-01,True,,1,81,81,81,92
+FTV,Technology,D:\Projects\python\hse-invest-strategy\data\Technology\FTV,2471,2016-07-05,2026-05-01,True,,1,47,47,47,41
+FUL,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\FUL,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+FWDI,Consumer Cyclical,D:\Projects\python\hse-invest-strategy\data\Consumer Cyclical\FWDI,5366,2005-01-03,2026-05-01,True,,1,81,81,81,101
+FWONA,Communication Services,D:\Projects\python\hse-invest-strategy\data\Communication Services\FWONA,3347,2013-01-10,2026-05-01,True,,1,56,57,56,53
+FWONK,Communication Services,D:\Projects\python\hse-invest-strategy\data\Communication Services\FWONK,5366,2005-01-03,2026-05-01,True,,1,56,57,56,53
+FWRD,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\FWRD,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+GBX,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\GBX,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+GD,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\GD,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+GDC,Communication Services,D:\Projects\python\hse-invest-strategy\data\Communication Services\GDC,2600,2015-12-29,2026-05-01,True,,1,44,45,44,38
+GENC,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\GENC,5366,2005-01-03,2026-05-01,True,,1,81,81,81,102
+GEOS,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\GEOS,5366,2005-01-03,2026-05-01,True,,1,81,81,81,112
+GEVO,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\GEVO,3829,2011-02-09,2026-05-01,True,,1,69,69,69,61
+GFF,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\GFF,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+GGG,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\GGG,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+GHM,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\GHM,5366,2005-01-03,2026-05-01,True,,1,81,81,81,109
+GIC,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\GIC,5366,2005-01-03,2026-05-01,True,,1,81,81,81,119
+GLW,Technology,D:\Projects\python\hse-invest-strategy\data\Technology\GLW,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+GM,Consumer Cyclical,D:\Projects\python\hse-invest-strategy\data\Consumer Cyclical\GM,5366,2005-01-03,2026-05-01,True,,1,81,81,81,62
+GOLD,Financial Services,D:\Projects\python\hse-invest-strategy\data\Financial Services\GOLD,5366,2005-01-03,2026-05-01,True,,1,54,54,54,72
+GPRE,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\GPRE,5065,2006-03-15,2026-05-01,True,,1,81,81,81,80
+GRC,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\GRC,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+GTLS,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\GTLS,4973,2006-07-26,2026-05-01,True,,1,81,81,81,79
+GTN,Communication Services,D:\Projects\python\hse-invest-strategy\data\Communication Services\GTN,5366,2005-01-03,2026-05-01,True,,1,81,81,81,118
+GVA,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\GVA,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+GWAV,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\GWAV,5366,2005-01-03,2026-05-01,True,,1,51,50,51,40
+GWW,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\GWW,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+HAYW,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\HAYW,1291,2021-03-12,2026-05-01,True,,1,29,30,29,22
+HBIO,Healthcare,D:\Projects\python\hse-invest-strategy\data\Healthcare\HBIO,5366,2005-01-03,2026-05-01,True,,1,81,81,81,100
+HEI,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\HEI,5366,2005-01-03,2026-05-01,True,,1,81,81,81,118
+HII,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\HII,5366,2005-01-03,2026-05-01,True,,1,68,65,67,61
+HL,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\HL,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+HLIO,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\HLIO,5366,2005-01-03,2026-05-01,True,,1,81,81,81,116
+HON,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\HON,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+HOVR,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\HOVR,773,2023-04-03,2026-05-01,True,,1,17,17,16,14
+HRI,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\HRI,5366,2005-01-03,2026-05-01,True,,1,74,78,66,50
+HTLD,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\HTLD,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+HUBG,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\HUBG,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+HUN,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\HUN,5366,2005-01-03,2026-05-01,True,,1,81,81,81,86
+HURC,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\HURC,5366,2005-01-03,2026-05-01,True,,1,81,81,81,117
+HWM,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\HWM,2387,2016-11-01,2026-05-01,True,,1,81,81,81,121
+HXL,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\HXL,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+HY,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\HY,5366,2005-01-03,2026-05-01,True,,1,81,77,81,54
+IESC,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\IESC,5366,2005-01-03,2026-05-01,True,,1,81,81,81,112
+IEX,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\IEX,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+IFF,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\IFF,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+IIIN,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\IIIN,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+INHD,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\INHD,5366,2005-01-03,2026-05-01,True,,1,17,17,17,8
+INTT,Technology,D:\Projects\python\hse-invest-strategy\data\Technology\INTT,5366,2005-01-03,2026-05-01,True,,1,81,81,81,114
+IOSP,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\IOSP,5366,2005-01-03,2026-05-01,True,,1,81,81,81,111
+IPI,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\IPI,4536,2008-04-22,2026-05-01,True,,1,77,76,77,72
+IR,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\IR,4536,2008-04-22,2026-05-01,True,,1,81,81,81,112
+ITRI,Technology,D:\Projects\python\hse-invest-strategy\data\Technology\ITRI,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+ITT,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\ITT,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+ITW,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\ITW,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+J,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\J,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+JBHT,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\JBHT,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+JBI,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\JBI,1598,2019-12-20,2026-05-01,True,,1,24,24,24,26
+JBTM,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\JBTM,4986,2006-07-07,2026-05-01,True,,1,76,76,76,71
+JOBY,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\JOBY,1375,2020-11-09,2026-05-01,True,,1,22,23,22,22
+KAI,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\KAI,5366,2005-01-03,2026-05-01,True,,1,81,81,81,112
+KALU,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\KALU,4986,2006-07-07,2026-05-01,True,,1,81,81,81,104
+KBR,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\KBR,4893,2006-11-16,2026-05-01,True,,1,81,81,80,78
+KEQU,Consumer Cyclical,D:\Projects\python\hse-invest-strategy\data\Consumer Cyclical\KEQU,5366,2005-01-03,2026-05-01,True,,1,81,81,81,106
+KEYS,Technology,D:\Projects\python\hse-invest-strategy\data\Technology\KEYS,2900,2014-10-20,2026-05-01,True,,1,54,54,54,46
+KITT,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\KITT,1191,2021-08-04,2026-05-01,True,,1,22,22,22,18
+KMT,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\KMT,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+KNF,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\KNF,729,2023-06-06,2026-05-01,True,,1,16,16,16,12
+KNX,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\KNX,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+KRMN,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\KRMN,2900,2014-10-20,2026-05-01,True,,1,10,10,10,4
+KRT,Consumer Cyclical,D:\Projects\python\hse-invest-strategy\data\Consumer Cyclical\KRT,2900,2014-10-20,2026-05-01,True,,1,32,32,32,23
+KTB,Consumer Cyclical,D:\Projects\python\hse-invest-strategy\data\Consumer Cyclical\KTB,5366,2005-01-03,2026-05-01,True,,1,32,32,32,29
+KTOS,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\KTOS,5366,2005-01-03,2026-05-01,True,,1,81,81,81,105
+KWR,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\KWR,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+LAB,Healthcare,D:\Projects\python\hse-invest-strategy\data\Healthcare\LAB,3828,2011-02-10,2026-05-01,True,,1,65,68,65,60
+LCID,Consumer Cyclical,D:\Projects\python\hse-invest-strategy\data\Consumer Cyclical\LCID,1411,2020-09-18,2026-05-01,True,,1,24,24,24,25
+LECO,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\LECO,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+LEU,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\LEU,5366,2005-01-03,2026-05-01,True,,1,81,81,81,107
+LHX,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\LHX,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+LII,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\LII,5366,2005-01-03,2026-05-01,True,,1,81,81,81,107
+LMT,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\LMT,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+LNN,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\LNN,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+LNZA,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\LNZA,1155,2021-09-24,2026-05-01,True,,1,20,20,18,20
+LOAR,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\LOAR,506,2024-04-25,2026-05-01,True,,1,16,16,16,10
+LODE,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\LODE,3970,2010-07-21,2026-05-01,True,,1,81,81,81,90
+LSTR,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\LSTR,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+LUNR,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\LUNR,3970,2010-07-21,2026-05-01,True,,1,19,21,19,19
+LWLG,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\LWLG,5022,2006-05-16,2026-05-01,True,,1,76,76,72,76
+MAS,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\MAS,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+MASS,Healthcare,D:\Projects\python\hse-invest-strategy\data\Healthcare\MASS,5022,2006-05-16,2026-05-01,True,,1,28,28,28,28
+MBUU,Consumer Cyclical,D:\Projects\python\hse-invest-strategy\data\Consumer Cyclical\MBUU,3081,2014-01-31,2026-05-01,True,,1,58,55,58,49
+MCFT,Consumer Cyclical,D:\Projects\python\hse-invest-strategy\data\Consumer Cyclical\MCFT,2714,2015-07-17,2026-05-01,True,,1,51,51,51,43
+MDU,Utilities,D:\Projects\python\hse-invest-strategy\data\Utilities\MDU,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+MEC,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\MEC,1755,2019-05-09,2026-05-01,True,,1,32,32,32,29
+MIDD,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\MIDD,5366,2005-01-03,2026-05-01,True,,1,81,81,81,118
+MIND,Technology,D:\Projects\python\hse-invest-strategy\data\Technology\MIND,5366,2005-01-03,2026-05-01,True,,1,81,81,81,116
+MIR,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\MIR,1431,2020-08-20,2026-05-01,True,,1,33,34,34,24
+MKSI,Technology,D:\Projects\python\hse-invest-strategy\data\Technology\MKSI,5366,2005-01-03,2026-05-01,True,,1,81,81,81,108
+MLAB,Technology,D:\Projects\python\hse-invest-strategy\data\Technology\MLAB,5366,2005-01-03,2026-05-01,True,,1,81,81,81,111
+MLAC,Unknown,D:\Projects\python\hse-invest-strategy\data\Unknown\MLAC,5366,2005-01-03,2026-05-01,False,"missing_reports:overview.csv,income_statement_quarterly.csv,balance_sheet_quarterly.csv,cash_flow_quarterly.csv,earnings_quarterly.csv",0,0,0,0,0
+MLI,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\MLI,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+MLM,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\MLM,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+MNTS,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\MNTS,5366,2005-01-03,2026-05-01,True,,1,28,28,28,22
+MOS,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\MOS,5366,2005-01-03,2026-05-01,True,,1,81,81,81,109
+MPX,Consumer Cyclical,D:\Projects\python\hse-invest-strategy\data\Consumer Cyclical\MPX,5366,2005-01-03,2026-05-01,True,,1,81,81,81,100
+MRTN,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\MRTN,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+MSB,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\MSB,5366,2005-01-03,2026-05-01,True,,1,81,81,81,108
+MSM,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\MSM,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+MTRN,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\MTRN,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+MTUS,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\MTUS,2985,2014-06-19,2026-05-01,True,,1,54,54,54,48
+MTW,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\MTW,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+MTZ,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\MTZ,5366,2005-01-03,2026-05-01,True,,1,81,81,81,117
+MWA,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\MWA,5014,2006-05-26,2026-05-01,True,,1,81,81,81,80
+MWH,Utilities,D:\Projects\python\hse-invest-strategy\data\Utilities\MWH,55,2026-02-12,2026-05-01,False,short_price_history,1,2,3,2,1
+MYE,Consumer Cyclical,D:\Projects\python\hse-invest-strategy\data\Consumer Cyclical\MYE,5366,2005-01-03,2026-05-01,True,,1,81,81,81,115
+MYRG,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\MYRG,4457,2008-08-13,2026-05-01,True,,1,81,81,81,71
+NAUT,Healthcare,D:\Projects\python\hse-invest-strategy\data\Healthcare\NAUT,1440,2020-08-07,2026-05-01,True,,1,30,30,30,23
+NDSN,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\NDSN,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+NEU,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\NEU,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+NGVT,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\NGVT,5366,2005-01-03,2026-05-01,True,,1,48,48,48,40
+NMAX,Communication Services,D:\Projects\python\hse-invest-strategy\data\Communication Services\NMAX,274,2025-03-31,2026-05-01,True,,1,11,11,11,5
+NN,Technology,D:\Projects\python\hse-invest-strategy\data\Technology\NN,1380,2020-11-02,2026-05-01,True,,1,24,24,24,22
+NNBR,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\NNBR,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+NOC,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\NOC,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+NPK,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\NPK,5366,2005-01-03,2026-05-01,True,,1,81,81,81,111
+NPO,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\NPO,5366,2005-01-03,2026-05-01,True,,1,81,81,81,95
+NSC,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\NSC,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+NTIC,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\NTIC,5366,2005-01-03,2026-05-01,True,,1,81,81,81,105
+NUE,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\NUE,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+NVVE,Consumer Cyclical,D:\Projects\python\hse-invest-strategy\data\Consumer Cyclical\NVVE,5366,2005-01-03,2026-05-01,True,,1,27,28,27,28
+NWL,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\NWL,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+NWPX,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\NWPX,5366,2005-01-03,2026-05-01,True,,1,81,81,81,119
+NX,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\NX,5366,2005-01-03,2026-05-01,True,,1,81,81,81,113
+NXST,Communication Services,D:\Projects\python\hse-invest-strategy\data\Communication Services\NXST,5366,2005-01-03,2026-05-01,True,,1,81,81,81,89
+NXT,Technology,D:\Projects\python\hse-invest-strategy\data\Technology\NXT,809,2023-02-09,2026-05-01,True,,1,23,23,23,15
+OC,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\OC,5366,2005-01-03,2026-05-01,True,,1,81,81,81,96
+OCC,Technology,D:\Projects\python\hse-invest-strategy\data\Technology\OCC,5366,2005-01-03,2026-05-01,True,,1,81,81,81,114
+ODFL,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\ODFL,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+OFLX,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\OFLX,5221,2005-08-01,2026-05-01,True,,1,81,81,81,82
+OLN,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\OLN,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+ONTO,Technology,D:\Projects\python\hse-invest-strategy\data\Technology\ONTO,1636,2019-10-28,2026-05-01,True,,1,81,81,81,115
+ORGN,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\ORGN,1420,2020-09-04,2026-05-01,True,,1,78,74,72,74
+ORN,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\ORN,4619,2007-12-20,2026-05-01,True,,1,81,81,79,74
+OSK,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\OSK,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+OUST,Technology,D:\Projects\python\hse-invest-strategy\data\Technology\OUST,1396,2020-10-09,2026-05-01,True,,1,25,25,25,24
+OWLT,Healthcare,D:\Projects\python\hse-invest-strategy\data\Healthcare\OWLT,4619,2007-12-20,2026-05-01,True,,1,24,24,24,22
+OXM,Consumer Cyclical,D:\Projects\python\hse-invest-strategy\data\Consumer Cyclical\OXM,5366,2005-01-03,2026-05-01,True,,1,81,81,81,119
+PACB,Healthcare,D:\Projects\python\hse-invest-strategy\data\Healthcare\PACB,3901,2010-10-27,2026-05-01,True,,1,68,67,67,62
+PAMT,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\PAMT,5366,2005-01-03,2026-05-01,True,,1,81,81,81,111
+PAYX,Technology,D:\Projects\python\hse-invest-strategy\data\Technology\PAYX,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+PCT,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\PCT,5366,2005-01-03,2026-05-01,True,,1,25,25,25,24
+PESI,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\PESI,5366,2005-01-03,2026-05-01,True,,1,81,81,81,109
+PH,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\PH,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+PKE,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\PKE,5366,2005-01-03,2026-05-01,True,,1,81,81,81,103
+PKOH,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\PKOH,5366,2005-01-03,2026-05-01,True,,1,81,81,81,116
+PLOW,Consumer Cyclical,D:\Projects\python\hse-invest-strategy\data\Consumer Cyclical\PLOW,4023,2010-05-05,2026-05-01,True,,1,70,70,70,64
+PLPC,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\PLPC,5366,2005-01-03,2026-05-01,True,,1,81,81,81,101
+POWW,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\POWW,4023,2010-05-05,2026-05-01,True,,1,81,81,81,87
+PPIH,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\PPIH,5366,2005-01-03,2026-05-01,True,,1,81,81,81,116
+PPSI,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\PPSI,3269,2013-05-03,2026-05-01,True,,1,70,70,70,64
+PRIM,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\PRIM,4462,2008-08-06,2026-05-01,True,,1,79,79,79,76
+PRLB,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\PRLB,3567,2012-02-24,2026-05-01,True,,1,69,66,66,58
+PRPO,Healthcare,D:\Projects\python\hse-invest-strategy\data\Healthcare\PRPO,3567,2012-02-24,2026-05-01,True,,1,81,81,81,99
+PSIX,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\PSIX,3531,2012-04-17,2026-05-01,True,,1,81,81,77,73
+PSKY,Communication Services,D:\Projects\python\hse-invest-strategy\data\Communication Services\PSKY,5133,2005-12-05,2026-05-01,True,,1,81,81,81,112
+PVH,Consumer Cyclical,D:\Projects\python\hse-invest-strategy\data\Consumer Cyclical\PVH,5366,2005-01-03,2026-05-01,True,,1,81,81,81,107
+PWR,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\PWR,5366,2005-01-03,2026-05-01,True,,1,81,81,81,113
+PYPL,Financial Services,D:\Projects\python\hse-invest-strategy\data\Financial Services\PYPL,5366,2005-01-03,2026-05-01,True,,1,48,49,49,44
+QSI,Healthcare,D:\Projects\python\hse-invest-strategy\data\Healthcare\QSI,5366,2005-01-03,2026-05-01,True,,1,24,24,24,23
+QTRX,Healthcare,D:\Projects\python\hse-invest-strategy\data\Healthcare\QTRX,5366,2005-01-03,2026-05-01,True,,1,41,41,41,35
+RAIL,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\RAIL,5302,2005-04-06,2026-05-01,True,,1,81,81,81,84
+RAL,Unknown,D:\Projects\python\hse-invest-strategy\data\Unknown\RAL,215,2025-06-25,2026-05-01,False,"short_price_history;missing_reports:overview.csv,income_statement_quarterly.csv,balance_sheet_quarterly.csv,cash_flow_quarterly.csv,earnings_quarterly.csv",0,0,0,0,0
+RBC,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\RBC,5214,2005-08-10,2026-05-01,True,,1,81,81,81,120
+RDW,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\RDW,1330,2021-01-14,2026-05-01,True,,1,24,24,24,22
+REX,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\REX,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+REZI,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\REZI,5214,2005-08-10,2026-05-01,True,,1,37,37,37,31
+RGLD,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\RGLD,5366,2005-01-03,2026-05-01,True,,1,81,81,81,110
+RGR,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\RGR,5366,2005-01-03,2026-05-01,True,,1,81,81,81,119
+RIVN,Consumer Cyclical,D:\Projects\python\hse-invest-strategy\data\Consumer Cyclical\RIVN,1122,2021-11-10,2026-05-01,True,,1,25,25,25,23
+RKLB,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\RKLB,1364,2020-11-24,2026-05-01,True,,1,24,24,24,24
+RL,Consumer Cyclical,D:\Projects\python\hse-invest-strategy\data\Consumer Cyclical\RL,5366,2005-01-03,2026-05-01,True,,1,81,81,81,115
+RLGT,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\RLGT,5366,2005-01-03,2026-05-01,True,,1,81,81,81,77
+RMIX,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\RMIX,5366,2005-01-03,2026-05-01,True,,1,1,3,1,10
+ROAD,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\ROAD,5366,2005-01-03,2026-05-01,True,,1,38,38,38,36
+ROCK,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\ROCK,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+ROG,Technology,D:\Projects\python\hse-invest-strategy\data\Technology\ROG,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+ROK,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\ROK,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+RPID,Healthcare,D:\Projects\python\hse-invest-strategy\data\Healthcare\RPID,1205,2021-07-15,2026-05-01,True,,1,33,32,32,20
+RR,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\RR,614,2023-11-17,2026-05-01,True,,1,17,17,17,9
+RS,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\RS,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+RTX,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\RTX,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+RVTY,Healthcare,D:\Projects\python\hse-invest-strategy\data\Healthcare\RVTY,5366,2005-01-03,2026-05-01,True,,1,81,81,81,112
+RYZ,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\RYZ,2950,2014-08-08,2026-05-01,True,,1,32,32,32,4
+SAFX,Utilities,D:\Projects\python\hse-invest-strategy\data\Utilities\SAFX,5366,2005-01-03,2026-05-01,True,,1,19,20,16,19
+SAIA,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\SAIA,5366,2005-01-03,2026-05-01,True,,1,81,81,81,95
+SARO,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\SARO,5366,2005-01-03,2026-05-01,True,,1,12,12,12,6
+SBGI,Communication Services,D:\Projects\python\hse-invest-strategy\data\Communication Services\SBGI,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+SDST,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\SDST,5366,2005-01-03,2026-05-01,True,,1,21,21,18,20
+SEB,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\SEB,5366,2005-01-03,2026-05-01,True,,1,81,81,81,112
+SEER,Healthcare,D:\Projects\python\hse-invest-strategy\data\Healthcare\SEER,5366,2005-01-03,2026-05-01,True,,1,25,25,25,24
+SEV,Unknown,D:\Projects\python\hse-invest-strategy\data\Unknown\SEV,136,2025-10-16,2026-05-01,False,"short_price_history;missing_reports:overview.csv,income_statement_quarterly.csv,balance_sheet_quarterly.csv,cash_flow_quarterly.csv,earnings_quarterly.csv",0,0,0,0,0
+SGLY,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\SGLY,4515,2008-05-21,2026-05-01,True,,1,74,74,74,70
+SHIM,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\SHIM,617,2023-11-14,2026-05-01,True,,1,14,14,14,10
+SIF,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\SIF,5366,2005-01-03,2026-05-01,True,,1,81,81,81,107
+SKYQ,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\SKYQ,390,2024-10-10,2026-05-01,True,,1,10,10,10,5
+SLGN,Consumer Cyclical,D:\Projects\python\hse-invest-strategy\data\Consumer Cyclical\SLGN,5366,2005-01-03,2026-05-01,True,,1,81,81,81,117
+SLND,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\SLND,1092,2021-12-23,2026-05-01,True,,1,20,20,20,18
+SMG,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\SMG,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+SMID,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\SMID,5366,2005-01-03,2026-05-01,True,,1,81,81,81,107
+SMR,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\SMR,2384,2016-11-04,2026-05-01,True,,1,21,21,21,21
+SND,Energy,D:\Projects\python\hse-invest-strategy\data\Energy\SND,2384,2016-11-04,2026-05-01,True,,1,47,47,47,38
+SNDR,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\SNDR,5366,2005-01-03,2026-05-01,True,,1,43,43,43,38
+SNES,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\SNES,5366,2005-01-03,2026-05-01,True,,1,45,44,45,38
+SOLS,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\SOLS,5366,2005-01-03,2026-05-01,True,,1,6,6,6,3
+SPXC,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\SPXC,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+SSP,Communication Services,D:\Projects\python\hse-invest-strategy\data\Communication Services\SSP,5366,2005-01-03,2026-05-01,True,,1,81,81,81,118
+STLD,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\STLD,5366,2005-01-03,2026-05-01,True,,1,81,81,81,118
+STRL,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\STRL,5366,2005-01-03,2026-05-01,True,,1,81,81,81,101
+SWBI,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\SWBI,5366,2005-01-03,2026-05-01,True,,1,81,81,81,98
+SWIM,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\SWIM,1262,2021-04-23,2026-05-01,True,,1,24,25,24,21
+SXC,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\SXC,3717,2011-07-21,2026-05-01,True,,1,66,66,66,60
+SXI,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\SXI,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+SXT,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\SXT,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+SYM,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\SYM,5366,2005-01-03,2026-05-01,True,,1,21,22,21,20
+SYPR,Consumer Cyclical,D:\Projects\python\hse-invest-strategy\data\Consumer Cyclical\SYPR,5366,2005-01-03,2026-05-01,True,,1,81,81,81,117
+TAYD,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\TAYD,5366,2005-01-03,2026-05-01,True,,1,81,81,81,100
+TDG,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\TDG,5366,2005-01-03,2026-05-01,True,,1,81,81,81,80
+TDY,Technology,D:\Projects\python\hse-invest-strategy\data\Technology\TDY,5366,2005-01-03,2026-05-01,True,,1,81,81,81,106
+TER,Technology,D:\Projects\python\hse-invest-strategy\data\Technology\TER,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+TEX,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\TEX,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+TG,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\TG,5366,2005-01-03,2026-05-01,True,,1,81,81,81,117
+TGEN,Unknown,D:\Projects\python\hse-invest-strategy\data\Unknown\TGEN,3006,2014-05-20,2026-05-01,False,"missing_reports:overview.csv,income_statement_quarterly.csv,balance_sheet_quarterly.csv,cash_flow_quarterly.csv,earnings_quarterly.csv",0,0,0,0,0
+THO,Consumer Cyclical,D:\Projects\python\hse-invest-strategy\data\Consumer Cyclical\THO,5366,2005-01-03,2026-05-01,True,,1,81,81,81,116
+TKR,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\TKR,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+TMO,Healthcare,D:\Projects\python\hse-invest-strategy\data\Healthcare\TMO,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+TNC,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\TNC,5366,2005-01-03,2026-05-01,True,,1,81,81,81,113
+TOMZ,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\TOMZ,5366,2005-01-03,2026-05-01,True,,1,80,80,80,71
+TPCS,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\TPCS,4615,2007-12-27,2026-05-01,True,,1,80,80,79,72
+TRMB,Technology,D:\Projects\python\hse-invest-strategy\data\Technology\TRMB,5366,2005-01-03,2026-05-01,True,,1,81,81,81,117
+TRN,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\TRN,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+TRNS,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\TRNS,5366,2005-01-03,2026-05-01,True,,1,81,81,81,106
+TROX,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\TROX,5366,2005-01-03,2026-05-01,True,,1,81,79,79,71
+TRS,Consumer Cyclical,D:\Projects\python\hse-invest-strategy\data\Consumer Cyclical\TRS,5366,2005-01-03,2026-05-01,True,,1,81,81,81,76
+TSLA,Consumer Cyclical,D:\Projects\python\hse-invest-strategy\data\Consumer Cyclical\TSLA,3985,2010-06-29,2026-05-01,True,,1,74,74,74,64
+TWI,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\TWI,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+TWIN,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\TWIN,5366,2005-01-03,2026-05-01,True,,1,81,81,81,109
+TXG,Healthcare,D:\Projects\python\hse-invest-strategy\data\Healthcare\TXG,1668,2019-09-12,2026-05-01,True,,1,32,32,32,27
+TXT,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\TXT,5366,2005-01-03,2026-05-01,True,,1,81,81,81,52
+UAVS,Technology,D:\Projects\python\hse-invest-strategy\data\Technology\UAVS,5366,2005-01-03,2026-05-01,True,,1,81,81,81,63
+ULH,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\ULH,5338,2005-02-11,2026-05-01,True,,1,81,81,81,86
+UNP,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\UNP,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+UVV,Consumer Defensive,D:\Projects\python\hse-invest-strategy\data\Consumer Defensive\UVV,5366,2005-01-03,2026-05-01,True,,1,81,81,81,119
+VATE,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\VATE,4228,2009-07-13,2026-05-01,False,non_positive_adj_close,1,81,81,81,105
+VEEE,Consumer Cyclical,D:\Projects\python\hse-invest-strategy\data\Consumer Cyclical\VEEE,1201,2021-07-21,2026-05-01,True,,1,24,24,24,23
+VFC,Consumer Cyclical,D:\Projects\python\hse-invest-strategy\data\Consumer Cyclical\VFC,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+VGAS,Utilities,D:\Projects\python\hse-invest-strategy\data\Utilities\VGAS,1149,2021-10-04,2026-05-01,True,,1,23,23,22,19
+VLTO,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\VLTO,4228,2009-07-13,2026-05-01,False,non_positive_adj_close,1,17,17,17,12
+VMC,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\VMC,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+VMI,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\VMI,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+VNT,Technology,D:\Projects\python\hse-invest-strategy\data\Technology\VNT,5366,2005-01-03,2026-05-01,True,,1,29,29,29,24
+VOYG,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\VOYG,224,2025-06-11,2026-05-01,False,short_price_history,1,6,6,6,4
+VRSK,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\VRSK,4167,2009-10-07,2026-05-01,True,,1,76,74,76,66
+VSNT,Communication Services,D:\Projects\python\hse-invest-strategy\data\Communication Services\VSNT,5366,2005-01-03,2026-05-01,True,,1,5,5,4,2
+VVV,Consumer Cyclical,D:\Projects\python\hse-invest-strategy\data\Consumer Cyclical\VVV,2414,2016-09-23,2026-05-01,True,,1,46,46,46,39
+WAB,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\WAB,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+WAT,Healthcare,D:\Projects\python\hse-invest-strategy\data\Healthcare\WAT,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+WDFC,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\WDFC,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+WERN,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\WERN,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+WGO,Consumer Cyclical,D:\Projects\python\hse-invest-strategy\data\Consumer Cyclical\WGO,5366,2005-01-03,2026-05-01,True,,1,81,81,81,119
+WKHS,Consumer Cyclical,D:\Projects\python\hse-invest-strategy\data\Consumer Cyclical\WKHS,4004,2010-06-02,2026-05-01,True,,1,71,72,72,62
+WLK,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\WLK,5366,2005-01-03,2026-05-01,True,,1,81,81,81,86
+WNC,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\WNC,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+WOR,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\WOR,5366,2005-01-03,2026-05-01,True,,1,81,81,81,121
+WRAP,Technology,D:\Projects\python\hse-invest-strategy\data\Technology\WRAP,1993,2018-05-29,2026-05-01,True,,1,40,40,40,36
+WS,Basic Materials,D:\Projects\python\hse-invest-strategy\data\Basic Materials\WS,608,2023-11-28,2026-05-01,True,,1,16,16,16,11
+WSC,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\WSC,2636,2015-11-05,2026-05-01,True,,1,42,43,42,42
+WTS,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\WTS,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+XE,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\XE,6,2026-04-24,2026-05-01,False,"short_price_history;missing_reports:income_statement_quarterly.csv,balance_sheet_quarterly.csv,cash_flow_quarterly.csv,earnings_quarterly.csv",1,0,0,0,0
+XPEL,Consumer Cyclical,D:\Projects\python\hse-invest-strategy\data\Consumer Cyclical\XPEL,2636,2015-11-05,2026-05-01,True,,1,76,76,76,60
+XYL,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\XYL,5366,2005-01-03,2026-05-01,True,,1,66,66,66,58
+YHGJ,Consumer Cyclical,D:\Projects\python\hse-invest-strategy\data\Consumer Cyclical\YHGJ,5366,2005-01-03,2026-05-01,True,,1,52,52,52,100
+ZBRA,Technology,D:\Projects\python\hse-invest-strategy\data\Technology\ZBRA,5366,2005-01-03,2026-05-01,True,,1,81,81,81,120
+ZWS,Industrials,D:\Projects\python\hse-invest-strategy\data\Industrials\ZWS,5366,2005-01-03,2026-05-01,True,,1,81,81,81,57

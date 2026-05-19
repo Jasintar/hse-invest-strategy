@@ -1,0 +1,651 @@
+﻿ticker,sector,status,rows
+XLE,Benchmark,benchmark_price_skipped,5366
+XLI,Benchmark,benchmark_price_skipped,5366
+XLP,Benchmark,benchmark_price_skipped,5366
+SPY,Benchmark,benchmark_price_skipped,5366
+ACI,Consumer Defensive,skipped,24
+ADM,Consumer Defensive,skipped,172
+AQB,Consumer Defensive,skipped,0
+ARKO,Consumer Cyclical,skipped,17
+ARLO,Industrials,skipped,0
+AVO,Consumer Defensive,skipped,0
+BG,Consumer Defensive,skipped,97
+BGS,Consumer Defensive,skipped,76
+BOF,Consumer Defensive,skipped,0
+BRBR,Consumer Defensive,skipped,0
+BRCC,Consumer Defensive,skipped,0
+BRFH,Consumer Defensive,skipped,0
+BRID,Consumer Defensive,skipped,67
+BYND,Consumer Defensive,skipped,0
+CAG,Consumer Defensive,skipped,165
+CALM,Consumer Defensive,skipped,92
+CELH,Consumer Defensive,skipped,0
+COCO,Consumer Defensive,skipped,0
+COKE,Consumer Defensive,skipped,158
+CPB,Consumer Defensive,skipped,165
+CTVA,Basic Materials,skipped,27
+CVS,Healthcare,skipped,167
+DAR,Consumer Defensive,skipped,0
+DNUT,Consumer Defensive,skipped,15
+EDBL,Consumer Defensive,skipped,0
+FARM,Consumer Defensive,skipped,97
+FIZZ,Consumer Defensive,skipped,12
+FLO,Consumer Defensive,skipped,150
+FRPT,Consumer Defensive,skipped,0
+GIS,Consumer Defensive,skipped,171
+GNSS,Technology,skipped,3
+GO,Consumer Defensive,skipped,0
+GRDN,Healthcare,skipped,0
+HAIN,Consumer Defensive,skipped,0
+HRL,Consumer Defensive,skipped,159
+HSY,Consumer Defensive,skipped,163
+IMKTA,Consumer Defensive,skipped,150
+INGR,Consumer Defensive,skipped,111
+IPST,Financial Services,skipped,0
+JBSS,Consumer Defensive,skipped,25
+JJSF,Consumer Defensive,skipped,86
+JVA,Consumer Defensive,skipped,14
+KDP,Consumer Defensive,skipped,66
+KHC,Consumer Defensive,skipped,44
+KN,Technology,skipped,0
+KO,Consumer Defensive,skipped,257
+KOSS,Technology,skipped,52
+KR,Consumer Defensive,skipped,183
+LMNR,Consumer Defensive,skipped,65
+LW,Consumer Defensive,skipped,37
+LWAY,Consumer Defensive,skipped,2
+MAMA,Consumer Defensive,skipped,0
+MDLZ,Consumer Defensive,skipped,99
+MED,Consumer Cyclical,skipped,32
+MGPI,Consumer Defensive,skipped,82
+MKC,Consumer Defensive,skipped,158
+MNST,Consumer Defensive,skipped,1
+MSN,Technology,skipped,2
+MSS,Consumer Defensive,skipped,0
+MZTI,Consumer Defensive,skipped,158
+NGVC,Consumer Defensive,skipped,26
+PEP,Consumer Defensive,skipped,217
+PETS,Healthcare,skipped,57
+POST,Consumer Defensive,skipped,0
+PPC,Consumer Defensive,skipped,81
+PRMB,Consumer Defensive,skipped,74
+RIME,Technology,skipped,0
+RKDA,Consumer Defensive,skipped,0
+RMCF,Consumer Defensive,skipped,67
+RYM,Consumer Defensive,skipped,0
+SAM,Consumer Defensive,skipped,0
+SENEA,Consumer Defensive,skipped,0
+SENEB,Consumer Defensive,skipped,0
+SFD,Consumer Defensive,skipped,5
+SFM,Consumer Defensive,skipped,0
+SJM,Consumer Defensive,skipped,103
+SMPL,Consumer Defensive,skipped,0
+SONO,Technology,skipped,0
+SOWG,Consumer Defensive,skipped,0
+STZ,Consumer Defensive,skipped,45
+TR,Consumer Defensive,skipped,159
+TSN,Consumer Defensive,skipped,150
+TULP,Communication Services,skipped,2
+UEIC,Technology,skipped,0
+UTZ,Consumer Defensive,skipped,23
+VITL,Consumer Defensive,skipped,0
+VLGEA,Consumer Defensive,skipped,102
+WEST,Consumer Defensive,skipped,0
+WEYS,Consumer Cyclical,skipped,152
+WMK,Consumer Defensive,skipped,159
+WVVI,Consumer Defensive,skipped,0
+YHC,Consumer Defensive,skipped,0
+YSWY,Consumer Defensive,skipped,0
+ZVIA,Consumer Defensive,skipped,0
+ACDC,Energy,skipped,0
+AGIG,Utilities,skipped,11
+AMPY,Energy,skipped,3
+AMR,Basic Materials,skipped,7
+ANNA,Energy,skipped,0
+APA,Energy,skipped,176
+APC,Energy,skipped,1
+AR,Energy,skipped,0
+AREC,Basic Materials,skipped,0
+BATL,Energy,skipped,0
+BE,Industrials,skipped,0
+BKV,Energy,skipped,0
+BRN,Energy,skipped,49
+BTU,Energy,skipped,21
+CHRD,Energy,skipped,25
+CKX,Energy,skipped,49
+CLMT,Basic Materials,skipped,40
+CNR,Energy,skipped,11
+CNX,Energy,skipped,67
+COP,Energy,skipped,185
+CRC,Energy,skipped,18
+CRGY,Energy,skipped,17
+CRK,Energy,skipped,12
+CRT,Energy,skipped,408
+CTRA,Energy,skipped,145
+CVI,Energy,skipped,43
+CVX,Energy,skipped,227
+DINO,Energy,skipped,163
+DK,Energy,skipped,85
+DVN,Energy,skipped,135
+DWSN,Energy,skipped,2
+EAF,Industrials,skipped,22
+EGY,Energy,skipped,18
+EOG,Energy,skipped,153
+EP,Energy,skipped,0
+EPM,Energy,skipped,50
+EPSN,Energy,skipped,17
+EQT,Energy,skipped,150
+EXE,Energy,skipped,20
+FANG,Energy,skipped,32
+FCEL,Industrials,skipped,1
+FIP,Industrials,skipped,14
+GBR,Real Estate,skipped,0
+GLND,Energy,skipped,0
+GPOR,Energy,skipped,0
+GRNT,Energy,skipped,14
+HAL,Energy,skipped,216
+HCC,Basic Materials,skipped,44
+HESM,Energy,skipped,35
+HLX,Energy,skipped,0
+HNRG,Energy,skipped,33
+HP,Energy,skipped,154
+HPK,Energy,skipped,18
+INR,Energy,skipped,0
+KGEI,Energy,skipped,0
+KLXE,Energy,skipped,0
+LBRT,Energy,skipped,21
+LFUS,Technology,skipped,62
+METC,Basic Materials,skipped,11
+METCB,Basic Materials,skipped,7
+METCZ,Unknown,skipped,0
+MGEE,Utilities,skipped,158
+MGY,Energy,skipped,17
+MMLP,Energy,skipped,93
+MPC,Energy,skipped,59
+MTDR,Energy,skipped,21
+MTR,Energy,skipped,444
+MUR,Energy,skipped,173
+MXC,Energy,skipped,3
+NC,Energy,skipped,164
+NCSM,Energy,skipped,0
+NE,Energy,skipped,11
+NESR,Energy,skipped,0
+NGS,Energy,skipped,3
+NOG,Energy,skipped,20
+NPWR,Industrials,skipped,0
+NRP,Energy,skipped,96
+NRT,Energy,skipped,156
+NUAI,Technology,skipped,0
+OII,Energy,skipped,26
+OXY,Energy,skipped,176
+PARR,Energy,skipped,0
+PBF,Energy,skipped,43
+PBT,Energy,skipped,472
+PED,Energy,skipped,0
+PLUG,Industrials,skipped,0
+PNRG,Energy,skipped,0
+POWL,Industrials,skipped,50
+PR,Energy,skipped,14
+PSX,Energy,skipped,55
+PTEN,Energy,skipped,88
+PUMP,Energy,skipped,0
+REI,Energy,skipped,0
+REPX,Energy,skipped,21
+RES,Energy,skipped,95
+RNGR,Energy,skipped,11
+RRC,Energy,skipped,95
+SBR,Energy,skipped,471
+SD,Energy,skipped,13
+SJT,Energy,skipped,410
+SM,Energy,skipped,90
+SOC,Energy,skipped,0
+TALO,Energy,skipped,0
+THR,Industrials,skipped,0
+TPL,Energy,skipped,58
+TTI,Industrials,skipped,2
+TUSK,Industrials,skipped,4
+USEG,Energy,skipped,6
+VAL,Energy,skipped,0
+VLO,Energy,skipped,160
+VNOM,Energy,skipped,46
+VTS,Energy,skipped,13
+WKC,Energy,skipped,127
+WTI,Energy,skipped,53
+WTTR,Energy,skipped,15
+WWD,Industrials,skipped,125
+XOM,Energy,skipped,256
+XPRO,Energy,skipped,16
+A,Healthcare,skipped,58
+AA,Basic Materials,skipped,239
+AAON,Industrials,skipped,47
+ACA,Industrials,skipped,30
+ACHR,Industrials,skipped,0
+ACNT,Basic Materials,skipped,55
+ADP,Technology,skipped,173
+AEHR,Technology,skipped,0
+AESI,Energy,skipped,10
+AGCO,Industrials,skipped,90
+AIR,Industrials,skipped,111
+AIRI,Industrials,skipped,12
+AIRJ,Industrials,skipped,0
+AIRO,Industrials,skipped,0
+ALB,Basic Materials,skipped,131
+ALG,Industrials,skipped,133
+ALH,Consumer Cyclical,skipped,0
+ALMR,Healthcare,skipped,0
+ALNT,Technology,skipped,65
+ALTG,Industrials,skipped,12
+ALTO,Basic Materials,skipped,0
+AME,Industrials,skipped,168
+AMTX,Basic Materials,skipped,0
+ANDE,Consumer Defensive,skipped,118
+AP,Industrials,skipped,131
+AQMS,Industrials,skipped,0
+ARCB,Industrials,skipped,109
+AREB,Consumer Cyclical,skipped,0
+ARQ,Industrials,skipped,12
+ARTW,Industrials,skipped,19
+ARXS,Industrials,skipped,0
+ASA,Unknown,skipped,137
+ASIX,Basic Materials,skipped,18
+ASPI,Basic Materials,skipped,0
+ASTC,Technology,skipped,0
+ASTE,Industrials,skipped,54
+ATI,Industrials,skipped,67
+ATLN,Industrials,skipped,0
+ATLX,Basic Materials,skipped,0
+ATR,Healthcare,skipped,131
+ATRO,Industrials,skipped,7
+AVAV,Industrials,skipped,0
+AVD,Basic Materials,skipped,73
+AVNT,Basic Materials,skipped,70
+AVTR,Healthcare,skipped,0
+AWI,Industrials,skipped,33
+AXON,Industrials,skipped,0
+AZZ,Industrials,skipped,88
+BA,Industrials,skipped,228
+BAER,Industrials,skipped,0
+BALL,Consumer Cyclical,skipped,164
+BC,Consumer Cyclical,skipped,141
+BCO,Industrials,skipped,115
+BCPC,Basic Materials,skipped,38
+BDC,Technology,skipped,87
+BETA,Industrials,skipped,0
+BIO,Healthcare,skipped,0
+BMI,Technology,skipped,145
+BNC,Industrials,skipped,0
+BNGO,Healthcare,skipped,0
+BOOM,Industrials,skipped,48
+BRKR,Healthcare,skipped,41
+BW,Industrials,skipped,0
+BWNB,Unknown,skipped,15
+BWXT,Industrials,skipped,53
+CARR,Industrials,skipped,23
+CAT,Industrials,skipped,209
+CBT,Basic Materials,skipped,160
+CBUS,Healthcare,skipped,0
+CC,Basic Materials,skipped,43
+CCK,Consumer Cyclical,skipped,41
+CDNL,Industrials,skipped,0
+CDXS,Healthcare,skipped,0
+CE,Basic Materials,skipped,84
+CECO,Industrials,skipped,25
+CENX,Basic Materials,skipped,24
+CF,Basic Materials,skipped,82
+CGNX,Technology,skipped,84
+CHRW,Industrials,skipped,115
+CLH,Industrials,skipped,0
+CLIR,Industrials,skipped,0
+CMC,Industrials,skipped,158
+CMCO,Industrials,skipped,72
+CMI,Industrials,skipped,166
+CMP,Basic Materials,skipped,81
+CMT,Basic Materials,skipped,20
+CODA,Industrials,skipped,0
+COHU,Technology,skipped,130
+CR,Industrials,skipped,12
+CRS,Industrials,skipped,156
+CSL,Industrials,skipped,156
+CSW,Industrials,skipped,29
+CSX,Industrials,skipped,182
+CTAS,Industrials,skipped,56
+CTKB,Healthcare,skipped,0
+CUB,Financial Services,skipped,0
+CVLG,Industrials,skipped,17
+CVR,Industrials,skipped,173
+CVU,Industrials,skipped,0
+CXT,Industrials,skipped,169
+DAIO,Technology,skipped,1
+DCI,Industrials,skipped,158
+DCO,Industrials,skipped,11
+DD,Basic Materials,skipped,217
+DE,Industrials,skipped,215
+DHR,Healthcare,skipped,134
+DOV,Industrials,skipped,174
+DOW,Basic Materials,skipped,28
+DXPE,Industrials,skipped,0
+DY,Industrials,skipped,0
+ECVT,Basic Materials,skipped,2
+EKSO,Healthcare,skipped,0
+ELMT,Industrials,skipped,0
+ELSE,Technology,skipped,80
+EME,Industrials,skipped,59
+EMN,Basic Materials,skipped,130
+ENTG,Technology,skipped,35
+ESAB,Industrials,skipped,16
+ESI,Basic Materials,skipped,22
+ESOA,Industrials,skipped,11
+ETS,Industrials,skipped,0
+EVC,Communication Services,skipped,52
+EVEX,Industrials,skipped,0
+EXP,Basic Materials,skipped,118
+EXPD,Industrials,skipped,66
+EYPT,Healthcare,skipped,0
+F,Consumer Cyclical,skipped,183
+FCUV,Technology,skipped,0
+FEAM,Basic Materials,skipped,0
+FEIM,Technology,skipped,25
+FF,Basic Materials,skipped,64
+FFAI,Consumer Cyclical,skipped,0
+FGI,Consumer Cyclical,skipped,0
+FIX,Industrials,skipped,82
+FLR,Industrials,skipped,77
+FLS,Industrials,skipped,125
+FLY,Industrials,skipped,0
+FLYE,Consumer Cyclical,skipped,0
+FMC,Basic Materials,skipped,85
+FORR,Industrials,skipped,29
+FOX,Communication Services,skipped,15
+FOXA,Communication Services,skipped,15
+FRD,Basic Materials,skipped,160
+FSS,Industrials,skipped,140
+FSTR,Industrials,skipped,23
+FTAI,Industrials,skipped,43
+FTEK,Industrials,skipped,0
+FTK,Energy,skipped,0
+FTV,Technology,skipped,39
+FUL,Basic Materials,skipped,157
+FWDI,Consumer Cyclical,skipped,0
+FWONA,Communication Services,skipped,0
+FWONK,Communication Services,skipped,0
+FWRD,Industrials,skipped,77
+GBX,Industrials,skipped,96
+GD,Industrials,skipped,215
+GDC,Communication Services,skipped,0
+GENC,Industrials,skipped,0
+GEOS,Energy,skipped,0
+GEVO,Basic Materials,skipped,0
+GFF,Industrials,skipped,61
+GGG,Industrials,skipped,157
+GHM,Industrials,skipped,92
+GIC,Industrials,skipped,48
+GLW,Technology,skipped,154
+GM,Consumer Cyclical,skipped,40
+GOLD,Financial Services,skipped,32
+GPRE,Basic Materials,skipped,24
+GRC,Industrials,skipped,157
+GTLS,Industrials,skipped,0
+GTN,Communication Services,skipped,46
+GVA,Industrials,skipped,141
+GWAV,Industrials,skipped,0
+GWW,Industrials,skipped,165
+HAYW,Industrials,skipped,0
+HBIO,Healthcare,skipped,0
+HEI,Industrials,skipped,79
+HII,Industrials,skipped,54
+HL,Basic Materials,skipped,68
+HLIO,Industrials,skipped,129
+HON,Industrials,skipped,256
+HOVR,Industrials,skipped,0
+HRI,Industrials,skipped,18
+HTLD,Industrials,skipped,91
+HUBG,Industrials,skipped,9
+HUN,Basic Materials,skipped,77
+HURC,Industrials,skipped,55
+HWM,Industrials,skipped,33
+HXL,Industrials,skipped,62
+HY,Industrials,skipped,54
+IESC,Industrials,skipped,0
+IEX,Industrials,skipped,125
+IFF,Basic Materials,skipped,206
+IIIN,Industrials,skipped,119
+INHD,Basic Materials,skipped,0
+INTT,Technology,skipped,1
+IOSP,Basic Materials,skipped,38
+IPI,Basic Materials,skipped,1
+IR,Industrials,skipped,22
+ITRI,Technology,skipped,0
+ITT,Industrials,skipped,121
+ITW,Industrials,skipped,158
+J,Industrials,skipped,37
+JBHT,Industrials,skipped,142
+JBI,Industrials,skipped,0
+JBTM,Industrials,skipped,70
+JOBY,Industrials,skipped,0
+KAI,Industrials,skipped,53
+KALU,Basic Materials,skipped,77
+KBR,Industrials,skipped,73
+KEQU,Consumer Cyclical,skipped,110
+KEYS,Technology,skipped,0
+KITT,Industrials,skipped,0
+KMT,Industrials,skipped,156
+KNF,Basic Materials,skipped,0
+KNX,Industrials,skipped,86
+KRMN,Industrials,skipped,0
+KRT,Consumer Cyclical,skipped,13
+KTB,Consumer Cyclical,skipped,25
+KTOS,Industrials,skipped,0
+KWR,Basic Materials,skipped,158
+LAB,Healthcare,skipped,0
+LCID,Consumer Cyclical,skipped,0
+LECO,Industrials,skipped,119
+LEU,Energy,skipped,29
+LHX,Industrials,skipped,179
+LII,Industrials,skipped,107
+LMT,Industrials,skipped,199
+LNN,Industrials,skipped,120
+LNZA,Industrials,skipped,0
+LOAR,Industrials,skipped,0
+LODE,Basic Materials,skipped,0
+LSTR,Industrials,skipped,90
+LUNR,Industrials,skipped,0
+LWLG,Basic Materials,skipped,0
+MAS,Industrials,skipped,171
+MASS,Healthcare,skipped,0
+MBUU,Consumer Cyclical,skipped,0
+MCFT,Consumer Cyclical,skipped,1
+MDU,Utilities,skipped,156
+MEC,Industrials,skipped,0
+MIDD,Industrials,skipped,13
+MIND,Technology,skipped,0
+MIR,Industrials,skipped,0
+MKSI,Technology,skipped,61
+MLAB,Technology,skipped,90
+MLAC,Unknown,skipped,0
+MLI,Industrials,skipped,91
+MLM,Basic Materials,skipped,127
+MNTS,Industrials,skipped,0
+MOS,Basic Materials,skipped,129
+MPX,Consumer Cyclical,skipped,89
+MRTN,Industrials,skipped,63
+MSB,Basic Materials,skipped,124
+MSM,Industrials,skipped,94
+MTRN,Basic Materials,skipped,118
+MTUS,Basic Materials,skipped,5
+MTW,Industrials,skipped,73
+MTZ,Industrials,skipped,0
+MWA,Industrials,skipped,78
+MWH,Utilities,skipped,0
+MYE,Consumer Cyclical,skipped,143
+MYRG,Industrials,skipped,0
+NAUT,Healthcare,skipped,0
+NDSN,Industrials,skipped,157
+NEU,Basic Materials,skipped,142
+NGVT,Basic Materials,skipped,0
+NMAX,Communication Services,skipped,0
+NN,Technology,skipped,0
+NNBR,Industrials,skipped,83
+NOC,Industrials,skipped,178
+NPK,Industrials,skipped,48
+NPO,Industrials,skipped,45
+NSC,Industrials,skipped,176
+NTIC,Basic Materials,skipped,43
+NUE,Basic Materials,skipped,171
+NVVE,Consumer Cyclical,skipped,0
+NWL,Consumer Defensive,skipped,157
+NWPX,Basic Materials,skipped,0
+NX,Industrials,skipped,151
+NXST,Communication Services,skipped,53
+NXT,Technology,skipped,0
+OC,Industrials,skipped,49
+OCC,Technology,skipped,21
+ODFL,Industrials,skipped,37
+OFLX,Industrials,skipped,46
+OLN,Basic Materials,skipped,157
+ONTO,Technology,skipped,0
+ORGN,Basic Materials,skipped,0
+ORN,Industrials,skipped,0
+OSK,Industrials,skipped,133
+OUST,Technology,skipped,0
+OWLT,Healthcare,skipped,0
+OXM,Consumer Cyclical,skipped,158
+PACB,Healthcare,skipped,0
+PAMT,Industrials,skipped,2
+PAYX,Technology,skipped,149
+PCT,Industrials,skipped,0
+PESI,Industrials,skipped,0
+PH,Industrials,skipped,162
+PKE,Industrials,skipped,168
+PKOH,Industrials,skipped,47
+PLOW,Consumer Cyclical,skipped,63
+PLPC,Industrials,skipped,100
+POWW,Industrials,skipped,0
+PPIH,Industrials,skipped,0
+PPSI,Industrials,skipped,3
+PRIM,Industrials,skipped,71
+PRLB,Industrials,skipped,0
+PRPO,Healthcare,skipped,0
+PSIX,Industrials,skipped,0
+PSKY,Communication Services,skipped,81
+PVH,Consumer Cyclical,skipped,154
+PWR,Industrials,skipped,30
+PYPL,Financial Services,skipped,2
+QSI,Healthcare,skipped,0
+QTRX,Healthcare,skipped,0
+RAIL,Industrials,skipped,42
+RAL,Unknown,skipped,3
+RBC,Industrials,skipped,17
+RDW,Industrials,skipped,0
+REX,Basic Materials,skipped,0
+REZI,Industrials,skipped,0
+RGLD,Basic Materials,skipped,95
+RGR,Industrials,skipped,146
+RIVN,Consumer Cyclical,skipped,0
+RKLB,Industrials,skipped,0
+RL,Consumer Cyclical,skipped,89
+RLGT,Industrials,skipped,0
+RMIX,Basic Materials,skipped,0
+ROAD,Industrials,skipped,0
+ROCK,Industrials,skipped,39
+ROG,Technology,skipped,9
+ROK,Industrials,skipped,178
+RPID,Healthcare,skipped,0
+RR,Industrials,skipped,0
+RS,Basic Materials,skipped,126
+RTX,Industrials,skipped,255
+RVTY,Healthcare,skipped,174
+RYZ,Industrials,skipped,18
+SAFX,Utilities,skipped,0
+SAIA,Industrials,skipped,0
+SARO,Industrials,skipped,0
+SBGI,Communication Services,skipped,81
+SDST,Industrials,skipped,0
+SEB,Industrials,skipped,122
+SEER,Healthcare,skipped,0
+SEV,Unknown,skipped,0
+SGLY,Industrials,skipped,0
+SHIM,Industrials,skipped,0
+SIF,Industrials,skipped,32
+SKYQ,Energy,skipped,0
+SLGN,Consumer Cyclical,skipped,88
+SLND,Industrials,skipped,0
+SMG,Basic Materials,skipped,85
+SMID,Basic Materials,skipped,9
+SMR,Industrials,skipped,0
+SND,Energy,skipped,4
+SNDR,Industrials,skipped,37
+SNES,Basic Materials,skipped,0
+SOLS,Basic Materials,skipped,1
+SPXC,Industrials,skipped,94
+SSP,Communication Services,skipped,84
+STLD,Basic Materials,skipped,88
+STRL,Industrials,skipped,0
+SWBI,Industrials,skipped,23
+SWIM,Industrials,skipped,0
+SXC,Basic Materials,skipped,31
+SXI,Industrials,skipped,156
+SXT,Basic Materials,skipped,157
+SYM,Industrials,skipped,0
+SYPR,Consumer Cyclical,skipped,38
+TAYD,Industrials,skipped,1
+TDG,Industrials,skipped,12
+TDY,Technology,skipped,0
+TER,Technology,skipped,48
+TEX,Industrials,skipped,50
+TG,Industrials,skipped,138
+TGEN,Unknown,skipped,0
+THO,Consumer Cyclical,skipped,157
+TKR,Industrials,skipped,162
+TMO,Healthcare,skipped,61
+TNC,Industrials,skipped,157
+TOMZ,Industrials,skipped,0
+TPCS,Industrials,skipped,0
+TRMB,Technology,skipped,0
+TRN,Industrials,skipped,212
+TRNS,Industrials,skipped,0
+TROX,Basic Materials,skipped,52
+TRS,Consumer Cyclical,skipped,18
+TSLA,Consumer Cyclical,skipped,0
+TWI,Industrials,skipped,106
+TWIN,Industrials,skipped,125
+TXG,Healthcare,skipped,0
+TXT,Industrials,skipped,169
+UAVS,Technology,skipped,0
+ULH,Industrials,skipped,53
+UNP,Industrials,skipped,185
+UVV,Consumer Defensive,skipped,158
+VATE,Industrials,skipped,5
+VEEE,Consumer Cyclical,skipped,0
+VFC,Consumer Cyclical,skipped,159
+VGAS,Utilities,skipped,0
+VLTO,Industrials,skipped,10
+VMC,Basic Materials,skipped,157
+VMI,Industrials,skipped,156
+VNT,Technology,skipped,20
+VOYG,Industrials,skipped,0
+VRSK,Industrials,skipped,29
+VSNT,Communication Services,skipped,1
+VVV,Consumer Cyclical,skipped,25
+WAB,Industrials,skipped,122
+WAT,Healthcare,skipped,0
+WDFC,Basic Materials,skipped,143
+WERN,Industrials,skipped,150
+WGO,Consumer Cyclical,skipped,99
+WKHS,Consumer Cyclical,skipped,0
+WLK,Basic Materials,skipped,86
+WNC,Industrials,skipped,89
+WOR,Industrials,skipped,157
+WRAP,Technology,skipped,0
+WS,Basic Materials,skipped,9
+WSC,Industrials,skipped,5
+WTS,Industrials,skipped,143
+XE,Industrials,skipped,0
+XPEL,Consumer Cyclical,skipped,0
+XYL,Industrials,skipped,58
+YHGJ,Consumer Cyclical,skipped,3
+ZBRA,Technology,skipped,0
+ZWS,Industrials,skipped,25
+XLE,Benchmark,skipped,110
+XLI,Benchmark,skipped,108
+XLP,Benchmark,skipped,109
+SPY,Benchmark,skipped,134

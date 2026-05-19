@@ -39,7 +39,7 @@ except ImportError:
 PROJECT_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = PROJECT_DIR / "data"
 TICKERS_DIR = PROJECT_DIR / "tickers"
-OUTPUT_DIR = PROJECT_DIR / "strategy_output_year"
+OUTPUT_DIR = PROJECT_DIR / "strategy_output"
 MAPPING_FILE = DATA_DIR / "ticker_sector_mapping.csv"
 
 DEFAULT_TICKER_FILES = [
@@ -62,7 +62,7 @@ REPORT_FILES = [
 class StrategyConfig:
     start_date: str = "2007-01-01"
     reporting_lag_days: int = 60
-    rebalance_frequency: str = "1Y"
+    rebalance_frequency: str = "1M"
     n_stocks: int = 20
     max_per_sector: int = 10
     initial_capital: float = 100_000.0
@@ -639,6 +639,11 @@ def build_pit_dataset(universe: pd.DataFrame, config: StrategyConfig, output_dir
 
 
 def first_trading_days(prices_by_ticker: Dict[str, pd.DataFrame], start_date: str, frequency: str) -> List[pd.Timestamp]:
+    period_by_frequency = {"M": "M", "1M": "M", "Q": "Q", "1Q": "Q", "Y": "Y", "1Y": "Y"}
+    normalized_frequency = frequency.strip().upper()
+    if normalized_frequency not in period_by_frequency:
+        raise ValueError(f"Unsupported rebalance frequency: {frequency}")
+
     all_dates = sorted(
         set(
             pd.concat([df["date"] for df in prices_by_ticker.values() if not df.empty], ignore_index=True)
@@ -652,12 +657,7 @@ def first_trading_days(prices_by_ticker: Dict[str, pd.DataFrame], start_date: st
     calendar = calendar[calendar["date"] >= pd.to_datetime(start_date)].copy()
     if calendar.empty:
         return []
-    if frequency == "1Q":
-        calendar["period"] = calendar["date"].dt.to_period("Q")
-    elif frequency == "1M":
-        calendar["period"] = calendar["date"].dt.to_period("M")
-    else:
-        calendar["period"] = calendar["date"].dt.to_period("Y")
+    calendar["period"] = calendar["date"].dt.to_period(period_by_frequency[normalized_frequency])
     return calendar.groupby("period")["date"].min().sort_values().tolist()
 
 
@@ -1533,6 +1533,7 @@ def render_report(
 
 
 def parse_args() -> argparse.Namespace:
+    default_config = StrategyConfig()
     parser = argparse.ArgumentParser(description="Run baseline value strategy pipeline.")
     parser.add_argument(
         "command",
@@ -1540,13 +1541,17 @@ def parse_args() -> argparse.Namespace:
         help="Pipeline step to run.",
     )
     parser.add_argument("--output-dir", default=str(OUTPUT_DIR))
-    parser.add_argument("--start-date", default="2007-01-01")
-    parser.add_argument("--rebalance-frequency", default="1M", choices=["1Y", "1Q", "1M"])
-    parser.add_argument("--reporting-lag-days", type=int, default=60)
-    parser.add_argument("--n-stocks", type=int, default=20)
-    parser.add_argument("--max-per-sector", type=int, default=10)
-    parser.add_argument("--initial-capital", type=float, default=100_000)
-    parser.add_argument("--transaction-cost-bps", type=float, default=10.0)
+    parser.add_argument("--start-date", default=default_config.start_date)
+    parser.add_argument(
+        "--rebalance-frequency",
+        default=default_config.rebalance_frequency,
+        choices=["Y", "1Y", "Q", "1Q", "M", "1M"],
+    )
+    parser.add_argument("--reporting-lag-days", type=int, default=default_config.reporting_lag_days)
+    parser.add_argument("--n-stocks", type=int, default=default_config.n_stocks)
+    parser.add_argument("--max-per-sector", type=int, default=default_config.max_per_sector)
+    parser.add_argument("--initial-capital", type=float, default=default_config.initial_capital)
+    parser.add_argument("--transaction-cost-bps", type=float, default=default_config.transaction_cost_bps)
     parser.add_argument(
         "--benchmark-components",
         nargs="+",

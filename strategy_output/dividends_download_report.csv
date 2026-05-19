@@ -1,7 +1,8 @@
 ﻿ticker,sector,status,rows
-XLE,Benchmark,benchmark_price_saved,5366
-XLI,Benchmark,benchmark_price_saved,5366
-XLP,Benchmark,benchmark_price_saved,5366
+XLE,Benchmark,benchmark_price_skipped,5366
+XLI,Benchmark,benchmark_price_skipped,5366
+XLP,Benchmark,benchmark_price_skipped,5366
+SPY,Benchmark,benchmark_price_skipped,5366
 ACI,Consumer Defensive,skipped,24
 ADM,Consumer Defensive,skipped,172
 AQB,Consumer Defensive,skipped,0
@@ -644,6 +645,7 @@ XYL,Industrials,skipped,58
 YHGJ,Consumer Cyclical,skipped,3
 ZBRA,Technology,skipped,0
 ZWS,Industrials,skipped,25
-XLE,Benchmark,saved,110
-XLI,Benchmark,saved,108
-XLP,Benchmark,saved,109
+XLE,Benchmark,skipped,110
+XLI,Benchmark,skipped,108
+XLP,Benchmark,skipped,109
+SPY,Benchmark,skipped,134
