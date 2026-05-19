@@ -1,0 +1,17 @@
+﻿fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+2022-03-31,USD,None,0,None,None,-1425277,1328035,97242,1425277,None,None,None,None,None,None,None,None,-1425277,None,None,-1425277,None,None,-1364533,-1425277
+2022-06-30,USD,None,0,None,None,-1215292,1142730,72562,1215292,None,0,None,0,None,None,None,None,677708,None,None,677708,None,None,739810,677708
+2022-09-30,USD,None,0,None,None,-940252,867704,72548,940252,None,0,None,0,None,None,None,None,4347748,None,None,4347748,None,None,None,4347748
+2022-12-31,USD,None,0,None,None,-1250886,1176527,74359,1250886,None,None,None,None,None,None,None,None,-880886,None,None,-880886,None,None,None,-880886
+2023-03-31,USD,None,0,None,None,-4348302,4265640,82662,4348302,None,-67825,None,67825,None,None,None,None,-3117127,None,None,-3117127,None,None,-4416127,-574461
+2023-06-30,USD,None,0,None,None,-2543694,2457882,85812,2543694,None,-101443,None,101443,None,None,None,None,-2550250,None,None,-2550250,None,None,-2334221,-749147
+2023-09-30,USD,None,0,None,None,-2589490,2511176,78314,2589490,None,-67430,None,67430,None,None,None,None,-2512916,None,None,-2632102,None,None,None,-773192
+2023-12-31,USD,None,0,None,None,-2362901,2280495,82406,2362901,None,0,None,0,None,None,None,None,-2154718,None,None,-2201797,None,None,None,-646787
+2024-03-31,USD,None,0,None,None,-2875211,2789376,85835,2875211,None,0,None,0,None,None,None,None,-2529083,None,None,-2529083,None,None,None,-772371
+2024-06-30,USD,None,0,None,None,-3161794,2988774,173020,3161794,None,0,None,0,None,None,None,None,-2845586,None,None,-2831720,None,None,None,-903707
+2024-09-30,USD,None,0,None,None,-2785000,2694000,91000,2785000,None,0,None,0,None,None,None,None,-2494000,None,None,-2494000,None,None,None,-778000
+2024-12-31,USD,None,0,None,None,-2835044,2734130,100914,2835044,None,0,None,0,None,None,None,None,-2595492,None,None,-2660823,None,None,None,-880546
+2025-03-31,USD,None,0,None,None,-3180828,2997522,183306,3180828,None,None,None,None,None,None,None,None,-2650585,None,None,-2703585,None,None,None,-1246711
+2025-06-30,USD,None,0,None,None,-3239562,3094320,145242,3239562,None,None,None,None,None,None,None,None,-2574199,None,None,-2545999,None,None,None,-1260130
+2025-09-30,USD,None,0,None,None,-2880000,2752000,128000,2880000,None,None,None,None,None,None,None,None,-2230000,None,None,-2334000,None,None,None,-1155000
+2025-12-31,USD,None,0,None,None,-3217000,3083000,134000,3217000,None,None,None,None,None,None,None,None,-6574000,None,None,-6551000,None,None,None,-3296000

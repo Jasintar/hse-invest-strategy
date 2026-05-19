@@ -1,0 +1,17 @@
+﻿fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,stockBasedCompensation,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+2021-03-31,None,-7000,None,None,None,None,None,0,None,None,None,None,35000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-4973
+2021-06-30,None,-39723,None,None,None,None,None,3,None,None,None,None,20973,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-27575
+2021-09-30,None,-129120,None,None,None,None,None,0,None,None,None,None,124027,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+2021-12-31,None,-959328,None,None,None,None,None,0,None,None,None,-232300000,234389333,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,12457890
+2022-12-31,None,-1006770,None,None,None,None,None,0,None,None,None,184198799,-183544056,None,None,None,None,None,None,None,None,None,None,-183844056,None,None,None,None,1115667
+2023-03-31,None,-399825,None,None,None,None,None,5,None,None,None,63237,407491,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,78752
+2023-06-30,None,-289908,None,None,None,None,None,0,None,None,None,166276,202509,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,2405303
+2023-09-30,None,-185297,None,None,None,None,None,3,None,None,None,-350880,429282,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-701173
+2023-12-31,None,-1244263,None,None,None,None,None,3,None,None,None,29203503,-27558911,None,None,None,None,None,None,None,None,None,None,-28393290,None,None,None,None,-1455075
+2024-03-31,USD,-388382,None,None,None,None,None,0,None,None,None,None,334637,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-2504756
+2024-06-30,USD,-7001112,None,None,None,None,None,7392428,None,None,None,-7392425,14373594,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-6531696
+2024-09-30,USD,-10608111,None,None,None,None,None,6100797,None,0,None,-6100797,21668444,None,None,None,None,None,None,None,None,None,None,None,None,0,None,None,-3398264
+2024-12-31,USD,-5117557,None,None,None,None,None,4,None,None,None,-597784,33796275,None,None,None,None,None,None,None,None,None,None,-11692068,None,None,None,None,-15106805
+2025-03-31,None,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-6100
+2025-09-30,USD,-5216407,None,None,None,None,176244,310000,None,-1062150,None,-310000,6000000,None,None,None,None,None,None,None,None,None,None,None,None,4220147,None,None,-12514966
+2025-12-31,USD,-4105542,None,None,None,None,None,0,None,4074904,None,None,3380290,None,None,None,None,None,None,None,None,None,None,None,None,3370822,None,None,-16281174

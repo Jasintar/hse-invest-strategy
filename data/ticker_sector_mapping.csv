@@ -1,0 +1,700 @@
+﻿ticker,sector
+AA,Basic Materials
+ACNT,Basic Materials
+ALB,Basic Materials
+ALTO,Basic Materials
+AMR,Basic Materials
+AMTX,Basic Materials
+AREC,Basic Materials
+ASIX,Basic Materials
+ASPI,Basic Materials
+ATLX,Basic Materials
+AVD,Basic Materials
+AVNT,Basic Materials
+BCPC,Basic Materials
+CBT,Basic Materials
+CC,Basic Materials
+CE,Basic Materials
+CENX,Basic Materials
+CF,Basic Materials
+CLMT,Basic Materials
+CMP,Basic Materials
+CMT,Basic Materials
+CTVA,Basic Materials
+DD,Basic Materials
+DOW,Basic Materials
+ECVT,Basic Materials
+EMN,Basic Materials
+ESI,Basic Materials
+EXP,Basic Materials
+FEAM,Basic Materials
+FF,Basic Materials
+FMC,Basic Materials
+FRD,Basic Materials
+FUL,Basic Materials
+GEVO,Basic Materials
+GPRE,Basic Materials
+HCC,Basic Materials
+HL,Basic Materials
+HUN,Basic Materials
+IFF,Basic Materials
+INHD,Basic Materials
+IOSP,Basic Materials
+IPI,Basic Materials
+KALU,Basic Materials
+KNF,Basic Materials
+KWR,Basic Materials
+LODE,Basic Materials
+LWLG,Basic Materials
+METC,Basic Materials
+METCB,Basic Materials
+MLM,Basic Materials
+MOS,Basic Materials
+MSB,Basic Materials
+MTRN,Basic Materials
+MTUS,Basic Materials
+NEU,Basic Materials
+NGVT,Basic Materials
+NTIC,Basic Materials
+NUE,Basic Materials
+NWPX,Basic Materials
+OLN,Basic Materials
+ORGN,Basic Materials
+REX,Basic Materials
+RGLD,Basic Materials
+RMIX,Basic Materials
+RS,Basic Materials
+SMG,Basic Materials
+SMID,Basic Materials
+SNES,Basic Materials
+SOLS,Basic Materials
+STLD,Basic Materials
+SXC,Basic Materials
+SXT,Basic Materials
+TROX,Basic Materials
+UAMY,Basic Materials
+UAN,Basic Materials
+USLM,Basic Materials
+VMC,Basic Materials
+WDFC,Basic Materials
+WLK,Basic Materials
+WLKP,Basic Materials
+WS,Basic Materials
+EVC,Communication Services
+FOX,Communication Services
+FOXA,Communication Services
+FWONA,Communication Services
+FWONK,Communication Services
+GDC,Communication Services
+GTN,Communication Services
+NMAX,Communication Services
+NXST,Communication Services
+PSKY,Communication Services
+SBGI,Communication Services
+SSP,Communication Services
+TULP,Communication Services
+VSNT,Communication Services
+ALH,Consumer Cyclical
+AREB,Consumer Cyclical
+AREBW,Consumer Cyclical
+ARKO,Consumer Cyclical
+BALL,Consumer Cyclical
+BC,Consumer Cyclical
+CCK,Consumer Cyclical
+F,Consumer Cyclical
+FFAI,Consumer Cyclical
+FGI,Consumer Cyclical
+FLYE,Consumer Cyclical
+FWDI,Consumer Cyclical
+GM,Consumer Cyclical
+KEQU,Consumer Cyclical
+KRT,Consumer Cyclical
+KTB,Consumer Cyclical
+LCID,Consumer Cyclical
+MBUU,Consumer Cyclical
+MCFT,Consumer Cyclical
+MED,Consumer Cyclical
+MPX,Consumer Cyclical
+MYE,Consumer Cyclical
+NIO,Consumer Cyclical
+NVVE,Consumer Cyclical
+OXM,Consumer Cyclical
+PLOW,Consumer Cyclical
+PVH,Consumer Cyclical
+RIVN,Consumer Cyclical
+RL,Consumer Cyclical
+SLGN,Consumer Cyclical
+SYPR,Consumer Cyclical
+THO,Consumer Cyclical
+TRS,Consumer Cyclical
+TSLA,Consumer Cyclical
+VEEE,Consumer Cyclical
+VFC,Consumer Cyclical
+VVV,Consumer Cyclical
+WEYS,Consumer Cyclical
+WGO,Consumer Cyclical
+WKHS,Consumer Cyclical
+XPEL,Consumer Cyclical
+YHGJ,Consumer Cyclical
+ACI,Consumer Defensive
+ADM,Consumer Defensive
+ANDE,Consumer Defensive
+AQB,Consumer Defensive
+AVO,Consumer Defensive
+BG,Consumer Defensive
+BGS,Consumer Defensive
+BOF,Consumer Defensive
+BRBR,Consumer Defensive
+BRCC,Consumer Defensive
+BRFH,Consumer Defensive
+BRID,Consumer Defensive
+BYND,Consumer Defensive
+CAG,Consumer Defensive
+CALM,Consumer Defensive
+CELH,Consumer Defensive
+CHSCL,Consumer Defensive
+CHSCM,Consumer Defensive
+CHSCN,Consumer Defensive
+CHSCO,Consumer Defensive
+CHSCP,Consumer Defensive
+COCO,Consumer Defensive
+COKE,Consumer Defensive
+CPB,Consumer Defensive
+DAR,Consumer Defensive
+DNUT,Consumer Defensive
+EDBL,Consumer Defensive
+FARM,Consumer Defensive
+FIZZ,Consumer Defensive
+FLO,Consumer Defensive
+FRPT,Consumer Defensive
+GIS,Consumer Defensive
+GO,Consumer Defensive
+HAIN,Consumer Defensive
+HRL,Consumer Defensive
+HSY,Consumer Defensive
+IMKTA,Consumer Defensive
+INGR,Consumer Defensive
+JBSS,Consumer Defensive
+JJSF,Consumer Defensive
+JVA,Consumer Defensive
+KDP,Consumer Defensive
+KHC,Consumer Defensive
+KO,Consumer Defensive
+KR,Consumer Defensive
+LMNR,Consumer Defensive
+LW,Consumer Defensive
+LWAY,Consumer Defensive
+MAMA,Consumer Defensive
+MDLZ,Consumer Defensive
+MGPI,Consumer Defensive
+MKC,Consumer Defensive
+MNST,Consumer Defensive
+MSS,Consumer Defensive
+MZTI,Consumer Defensive
+NGVC,Consumer Defensive
+NWL,Consumer Defensive
+PEP,Consumer Defensive
+POST,Consumer Defensive
+PPC,Consumer Defensive
+PRMB,Consumer Defensive
+RKDA,Consumer Defensive
+RMCF,Consumer Defensive
+RYM,Consumer Defensive
+SAM,Consumer Defensive
+SENEA,Consumer Defensive
+SENEB,Consumer Defensive
+SFD,Consumer Defensive
+SFM,Consumer Defensive
+SJM,Consumer Defensive
+SMPL,Consumer Defensive
+SOWG,Consumer Defensive
+STZ,Consumer Defensive
+TR,Consumer Defensive
+TSN,Consumer Defensive
+UTZ,Consumer Defensive
+UVV,Consumer Defensive
+VITL,Consumer Defensive
+VLGEA,Consumer Defensive
+WEST,Consumer Defensive
+WMK,Consumer Defensive
+WVVI,Consumer Defensive
+WVVIP,Consumer Defensive
+YHC,Consumer Defensive
+YSWY,Consumer Defensive
+ZVIA,Consumer Defensive
+ACDC,Energy
+AESI,Energy
+AMPY,Energy
+ANNA,Energy
+APA,Energy
+APC,Energy
+AR,Energy
+ARLP,Energy
+BATL,Energy
+BKV,Energy
+BRN,Energy
+BSM,Energy
+BTU,Energy
+CAPL,Energy
+CHRD,Energy
+CKX,Energy
+CNR,Energy
+CNX,Energy
+COP,Energy
+CRC,Energy
+CRGY,Energy
+CRK,Energy
+CRT,Energy
+CTRA,Energy
+CVI,Energy
+CVX,Energy
+DINO,Energy
+DK,Energy
+DKL,Energy
+DMLP,Energy
+DVN,Energy
+DWSN,Energy
+EGY,Energy
+EOG,Energy
+EP,Energy
+EPM,Energy
+EPSN,Energy
+EQT,Energy
+EXE,Energy
+FANG,Energy
+FTK,Energy
+GEL,Energy
+GEOS,Energy
+GLND,Energy
+GLP,Energy
+GPOR,Energy
+GRNT,Energy
+HAL,Energy
+HESM,Energy
+HLX,Energy
+HNRG,Energy
+HP,Energy
+HPK,Energy
+INR,Energy
+KGEI,Energy
+KLXE,Energy
+KRP,Energy
+LBRT,Energy
+LEU,Energy
+MARPS,Energy
+MGY,Energy
+MMLP,Energy
+MNR,Energy
+MPC,Energy
+MPLX,Energy
+MTDR,Energy
+MTR,Energy
+MUR,Energy
+MVO,Energy
+MXC,Energy
+NC,Energy
+NCSM,Energy
+NE,Energy
+NESR,Energy
+NGS,Energy
+NOG,Energy
+NRP,Energy
+NRT,Energy
+OII,Energy
+OXY,Energy
+PAA,Energy
+PAGP,Energy
+PARR,Energy
+PBF,Energy
+PBT,Energy
+PED,Energy
+PNRG,Energy
+PR,Energy
+PRT,Energy
+PSX,Energy
+PTEN,Energy
+PUMP,Energy
+PVL,Energy
+REI,Energy
+REPX,Energy
+RES,Energy
+RNGR,Energy
+RRC,Energy
+SBR,Energy
+SD,Energy
+SJT,Energy
+SKYQ,Energy
+SM,Energy
+SND,Energy
+SOC,Energy
+SUN,Energy
+TALO,Energy
+TPL,Energy
+TXO,Energy
+USEG,Energy
+VAL,Energy
+VLO,Energy
+VNOM,Energy
+VOC,Energy
+VTS,Energy
+WKC,Energy
+WTI,Energy
+WTTR,Energy
+XOM,Energy
+XPRO,Energy
+CUB,Financial Services
+GOLD,Financial Services
+IPST,Financial Services
+PYPL,Financial Services
+A,Healthcare
+ALMR,Healthcare
+ATR,Healthcare
+AVTR,Healthcare
+BIO,Healthcare
+BNGO,Healthcare
+BRKR,Healthcare
+CBUS,Healthcare
+CDXS,Healthcare
+CTKB,Healthcare
+CVS,Healthcare
+DHR,Healthcare
+EKSO,Healthcare
+EYPT,Healthcare
+GRDN,Healthcare
+HBIO,Healthcare
+LAB,Healthcare
+MASS,Healthcare
+NAUT,Healthcare
+OWLT,Healthcare
+PACB,Healthcare
+PETS,Healthcare
+PRPO,Healthcare
+QSI,Healthcare
+QTRX,Healthcare
+RPID,Healthcare
+RVTY,Healthcare
+SEER,Healthcare
+TMO,Healthcare
+TXG,Healthcare
+WAT,Healthcare
+AAON,Industrials
+ACA,Industrials
+ACHR,Industrials
+AGCO,Industrials
+AIR,Industrials
+AIRI,Industrials
+AIRJ,Industrials
+AIRO,Industrials
+ALG,Industrials
+ALTG,Industrials
+AME,Industrials
+AP,Industrials
+AQMS,Industrials
+ARCB,Industrials
+ARLO,Industrials
+ARQ,Industrials
+ARTW,Industrials
+ARXS,Industrials
+ASTE,Industrials
+ATI,Industrials
+ATLN,Industrials
+ATRO,Industrials
+AVAV,Industrials
+AWI,Industrials
+AXON,Industrials
+AZZ,Industrials
+BA,Industrials
+BAER,Industrials
+BCO,Industrials
+BE,Industrials
+BETA,Industrials
+BNC,Industrials
+BOOM,Industrials
+BW,Industrials
+BWXT,Industrials
+CARR,Industrials
+CAT,Industrials
+CDNL,Industrials
+CECO,Industrials
+CHRW,Industrials
+CLH,Industrials
+CLIR,Industrials
+CMC,Industrials
+CMCO,Industrials
+CMI,Industrials
+CODA,Industrials
+CR,Industrials
+CRS,Industrials
+CSL,Industrials
+CSW,Industrials
+CSX,Industrials
+CTAS,Industrials
+CVLG,Industrials
+CVR,Industrials
+CVU,Industrials
+CXT,Industrials
+DCI,Industrials
+DCO,Industrials
+DE,Industrials
+DOV,Industrials
+DXPE,Industrials
+DY,Industrials
+EAF,Industrials
+ELMT,Industrials
+EME,Industrials
+ESAB,Industrials
+ESOA,Industrials
+ETS,Industrials
+EVEX,Industrials
+EXPD,Industrials
+FCEL,Industrials
+FIP,Industrials
+FIX,Industrials
+FLR,Industrials
+FLS,Industrials
+FLY,Industrials
+FORR,Industrials
+FSS,Industrials
+FSTR,Industrials
+FTAI,Industrials
+FTAIM,Industrials
+FTAIN,Industrials
+FTEK,Industrials
+FWRD,Industrials
+GBX,Industrials
+GD,Industrials
+GENC,Industrials
+GFF,Industrials
+GGG,Industrials
+GHM,Industrials
+GIC,Industrials
+GRC,Industrials
+GTLS,Industrials
+GVA,Industrials
+GWAV,Industrials
+GWW,Industrials
+HAYW,Industrials
+HEI,Industrials
+HII,Industrials
+HLIO,Industrials
+HON,Industrials
+HOVR,Industrials
+HRI,Industrials
+HTLD,Industrials
+HUBG,Industrials
+HURC,Industrials
+HWM,Industrials
+HXL,Industrials
+HY,Industrials
+IESC,Industrials
+IEX,Industrials
+IIIN,Industrials
+IR,Industrials
+ITT,Industrials
+ITW,Industrials
+J,Industrials
+JBHT,Industrials
+JBI,Industrials
+JBTM,Industrials
+JOBY,Industrials
+KAI,Industrials
+KBR,Industrials
+KITT,Industrials
+KMT,Industrials
+KNX,Industrials
+KRMN,Industrials
+KTOS,Industrials
+LECO,Industrials
+LHX,Industrials
+LII,Industrials
+LMT,Industrials
+LNN,Industrials
+LNZA,Industrials
+LNZAW,Industrials
+LOAR,Industrials
+LSTR,Industrials
+LUNR,Industrials
+MAS,Industrials
+MEC,Industrials
+MIDD,Industrials
+MIR,Industrials
+MLI,Industrials
+MNTS,Industrials
+MRTN,Industrials
+MSM,Industrials
+MTW,Industrials
+MTZ,Industrials
+MWA,Industrials
+MYRG,Industrials
+NDSN,Industrials
+NNBR,Industrials
+NOC,Industrials
+NPK,Industrials
+NPO,Industrials
+NPWR,Industrials
+NSC,Industrials
+NX,Industrials
+OC,Industrials
+ODFL,Industrials
+OFLX,Industrials
+ORN,Industrials
+OSK,Industrials
+PAMT,Industrials
+PCT,Industrials
+PCTTU,Industrials
+PESI,Industrials
+PH,Industrials
+PKE,Industrials
+PKOH,Industrials
+PLPC,Industrials
+PLUG,Industrials
+POWL,Industrials
+POWW,Industrials
+POWWP,Industrials
+PPIH,Industrials
+PPSI,Industrials
+PRIM,Industrials
+PRLB,Industrials
+PSIX,Industrials
+PWR,Industrials
+RAIL,Industrials
+RBC,Industrials
+RDW,Industrials
+REZI,Industrials
+RGR,Industrials
+RKLB,Industrials
+RLGT,Industrials
+ROAD,Industrials
+ROCK,Industrials
+ROK,Industrials
+RR,Industrials
+RTX,Industrials
+RYZ,Industrials
+SAIA,Industrials
+SARO,Industrials
+SDST,Industrials
+SEB,Industrials
+SGLY,Industrials
+SHIM,Industrials
+SIF,Industrials
+SLND,Industrials
+SMR,Industrials
+SNDR,Industrials
+SPXC,Industrials
+STRL,Industrials
+SWBI,Industrials
+SWIM,Industrials
+SXI,Industrials
+SYM,Industrials
+TAYD,Industrials
+TDG,Industrials
+TEX,Industrials
+TG,Industrials
+THR,Industrials
+TKR,Industrials
+TNC,Industrials
+TOMZ,Industrials
+TPCS,Industrials
+TRN,Industrials
+TRNS,Industrials
+TTI,Industrials
+TUSK,Industrials
+TWI,Industrials
+TWIN,Industrials
+TXT,Industrials
+ULH,Industrials
+UNP,Industrials
+UPS,Industrials
+VATE,Industrials
+VLTO,Industrials
+VMI,Industrials
+VOYG,Industrials
+VRSK,Industrials
+WAB,Industrials
+WERN,Industrials
+WNC,Industrials
+WOR,Industrials
+WSC,Industrials
+WTS,Industrials
+WWD,Industrials
+XE,Industrials
+XYL,Industrials
+ZWS,Industrials
+BWNB,None
+MLAC,None
+SEV,None
+GBR,Real Estate
+ADP,Technology
+AEHR,Technology
+ALNT,Technology
+ASTC,Technology
+BDC,Technology
+BMI,Technology
+CGNX,Technology
+COHU,Technology
+DAIO,Technology
+ELSE,Technology
+ENTG,Technology
+FCUV,Technology
+FEIM,Technology
+FTV,Technology
+GLW,Technology
+GNSS,Technology
+INTT,Technology
+ITRI,Technology
+KEYS,Technology
+KN,Technology
+KOSS,Technology
+LFUS,Technology
+MIND,Technology
+MKSI,Technology
+MLAB,Technology
+MSN,Technology
+NN,Technology
+NUAI,Technology
+NXT,Technology
+OCC,Technology
+ONTO,Technology
+OUST,Technology
+PAYX,Technology
+RIME,Technology
+ROG,Technology
+SONO,Technology
+TDY,Technology
+TER,Technology
+TRMB,Technology
+UAVS,Technology
+UEIC,Technology
+VNT,Technology
+WRAP,Technology
+ZBRA,Technology
+AIRJW,Unknown
+ANNAW,Unknown
+ASA,Unknown
+BAERW,Unknown
+BNCWZ,Unknown
+BRKRP,Unknown
+EDBLW,Unknown
+FFAIW,Unknown
+FGIWW,Unknown
+GLNDW,Unknown
+GPACW,Unknown
+HOVRW,Unknown
+KITTW,Unknown
+METCZ,Unknown
+MNTSW,Unknown
+NNAVW,Unknown
+NUAIW,Unknown
+ORGNW,Unknown
+PCTTW,Unknown
+QSIAW,Unknown
+RAL,Unknown
+SDSTW,Unknown
+TGEN,Unknown
+AGIG,Utilities
+MDU,Utilities
+MGEE,Utilities
+MWH,Utilities
+SAFX,Utilities
+VGAS,Utilities
+VGASW,Utilities

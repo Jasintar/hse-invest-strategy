@@ -1,0 +1,8 @@
+﻿fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+2024-02-29,USD,31897,634220,602323,602323,-3119,35016,None,35016,None,-16031,None,16031,None,None,None,59209,-18777,506,None,-19283,None,-2746,56463,-19283
+2024-05-31,USD,-16587,589720,606307,606307,-50590,34003,None,34003,None,-640,None,640,None,None,None,60618,-48418,294,None,-48712,None,-47778,12840,-48712
+2025-02-28,USD,-32407,692143,724550,724550,-316026,283619,None,283619,None,0,0,0,None,None,None,62168,-311297,-106298,None,-204999,None,-311297,-249129,-204999
+2025-05-31,USD,18000,630250,612248,612248,-123760,141762,None,141762,None,0,None,0,None,None,None,62168,-107204,400,None,-107604,None,-107204,-45036,-107604
+2025-08-31,USD,6817,633865,627048,627048,-144783,151600,None,151600,None,2248,None,2248,None,None,None,64332,-142535,43346,None,-185881,None,-140287,-75955,-185881
+2025-11-30,USD,25801,709690,683891,683891,-1919276,1022303,None,1945075,None,189227,None,189227,None,None,None,65638,-1730049,-42546,None,-1687503,None,-1540822,-1475184,-1687503
+2026-02-28,USD,157365,805298,647933,647933,-307241,464606,None,464606,None,198737,198737,None,None,None,None,16528,-108504,1600,None,-110104,None,-307241,-290713,-110104

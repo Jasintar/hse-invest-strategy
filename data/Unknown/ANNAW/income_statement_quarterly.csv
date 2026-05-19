@@ -1,0 +1,11 @@
+﻿fiscalDateEnding,reportedCurrency,grossProfit,totalRevenue,costOfRevenue,costofGoodsAndServicesSold,operatingIncome,sellingGeneralAndAdministrative,researchAndDevelopment,operatingExpenses,investmentIncomeNet,netInterestIncome,interestIncome,interestExpense,nonInterestIncome,otherNonOperatingIncome,depreciation,depreciationAndAmortization,incomeBeforeTax,incomeTaxExpense,interestAndDebtExpense,netIncomeFromContinuingOperations,comprehensiveIncomeNetOfTax,ebit,ebitda,netIncome
+2023-09-30,USD,2804,0,-2804,-2804,-1542687,1579150,None,1542687,None,736,736,None,None,None,None,None,-901988,None,None,-901988,None,None,None,-901988
+2023-12-31,USD,0,0,0,0,-2494519,2394591,None,2494519,None,None,None,None,None,None,None,None,-3430584,None,None,-3430584,None,None,None,-3430584
+2024-03-31,USD,0,0,0,0,-2051835,2018524,None,2051835,None,289337,289337,None,None,None,None,None,-1589321,None,None,-1589321,None,None,None,-1589321
+2024-06-30,USD,0,0,0,0,-991261,957952,None,991261,None,640123,640123,None,None,None,None,None,-351138,None,None,-351138,None,None,None,-351138
+2024-09-30,USD,58410,648328,589918,589918,-1472257,1497357,None,2120585,None,396200,396200,None,None,None,None,None,-1076057,None,None,-1076057,None,None,None,-1076057
+2024-12-31,USD,184930,771702,586772,586772,-1638633,1790254,None,2410335,None,622621,622621,None,None,None,None,None,-9109736,None,None,-9109736,None,None,None,-9022225
+2025-03-31,USD,-193795,644600,838395,838395,-3625250,3324845,None,3431455,None,237605,237605,None,None,None,None,None,-3387646,-1381507,None,-3339370,None,None,-3625250,-2006139
+2025-06-30,USD,3728889,4030410,301521,301521,583303,1790053,None,3145586,None,154031,154031,None,None,None,None,None,737334,-92671,None,644663,None,None,583303,830005
+2025-09-30,USD,9069679,11224868,2155189,2155189,5728614,2071051,None,3341065,None,146655,146655,None,None,None,None,582604,5875269,556592,None,5318677,None,5875269,6457873,3313898
+2025-12-31,USD,18827657000,25019837000,6192180000,6192180000,2899878000,9657467000,None,9654735000,None,704608,704608,None,None,None,None,None,4142239000,-1262478000,None,258098,None,None,215899,5406722000

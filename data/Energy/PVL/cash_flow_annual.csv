@@ -1,0 +1,16 @@
+﻿fiscalDateEnding,reportedCurrency,operatingCashflow,paymentsForOperatingActivities,proceedsFromOperatingActivities,changeInOperatingLiabilities,changeInOperatingAssets,depreciationDepletionAndAmortization,capitalExpenditures,changeInReceivables,changeInInventory,profitLoss,cashflowFromInvestment,cashflowFromFinancing,proceedsFromRepaymentsOfShortTermDebt,paymentsForRepurchaseOfCommonStock,paymentsForRepurchaseOfEquity,paymentsForRepurchaseOfPreferredStock,dividendPayout,dividendPayoutCommonStock,dividendPayoutPreferredStock,proceedsFromIssuanceOfCommonStock,proceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet,proceedsFromIssuanceOfPreferredStock,proceedsFromRepurchaseOfEquity,proceedsFromSaleOfTreasuryStock,stockBasedCompensation,changeInCashAndCashEquivalents,changeInExchangeRate,netIncome
+2010-12-31,USD,-13077000,None,None,None,None,None,217922000,None,None,None,-265422000,332483000,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,-8222000
+2012-12-31,USD,-17827202,None,None,None,None,None,0,None,None,None,None,-58051356,None,None,None,None,58051356,58051356,None,None,None,None,None,None,None,None,None,58051356
+2013-12-31,USD,-17969203,None,None,None,None,None,0,None,None,None,None,-48479607,None,None,None,None,48479607,48479607,None,None,None,None,None,None,None,None,None,48479607
+2014-12-31,USD,-14527604,None,None,None,None,None,0,None,None,None,None,-28496094,None,None,None,None,28496094,28496094,None,None,None,None,None,None,None,None,None,28496094
+2015-12-31,USD,-393594446,None,None,None,None,None,0,None,None,None,None,-13768821,None,None,None,None,13768821,13768821,None,None,None,None,None,None,None,None,None,13768821
+2016-12-31,USD,-5198680,None,None,None,None,None,0,None,None,None,None,-8486280,None,None,None,None,8486280,8486280,None,None,None,None,None,None,None,None,None,8486280
+2017-12-31,USD,32987022,None,None,None,None,None,0,None,None,None,None,-44744073,None,None,None,None,44744073,44744073,None,None,None,None,None,None,None,None,None,44744073
+2018-12-31,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,14354736
+2019-12-31,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,9519246
+2020-12-31,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,5023591
+2021-12-31,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,3118500
+2022-12-31,USD,4196655000,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,13480500
+2023-12-31,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,14113110
+2024-12-31,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,2821500
+2025-12-31,USD,None,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,3516070
