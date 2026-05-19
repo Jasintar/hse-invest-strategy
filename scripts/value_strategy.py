@@ -39,7 +39,7 @@ except ImportError:
 PROJECT_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = PROJECT_DIR / "data"
 TICKERS_DIR = PROJECT_DIR / "tickers"
-OUTPUT_DIR = PROJECT_DIR / "strategy_output"
+OUTPUT_DIR = PROJECT_DIR / "strategy_output_year"
 MAPPING_FILE = DATA_DIR / "ticker_sector_mapping.csv"
 
 DEFAULT_TICKER_FILES = [
@@ -62,7 +62,7 @@ REPORT_FILES = [
 class StrategyConfig:
     start_date: str = "2007-01-01"
     reporting_lag_days: int = 60
-    rebalance_frequency: str = "1M"
+    rebalance_frequency: str = "1Y"
     n_stocks: int = 20
     max_per_sector: int = 10
     initial_capital: float = 100_000.0
